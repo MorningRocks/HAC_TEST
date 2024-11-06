@@ -1,0 +1,122 @@
+2024-03-08T16:50:47.053525+0800 DEBUG D:\rltest\ARES-pytorch-ares\test\test_resources\via-release-cn.apk START
+2024-03-08T16:50:57.422767+0800 DEBUG <--- EPISODE RESET --->
+2024-03-08T16:51:01.242692+0800 DEBUG action: mark.via:id/ec Activity: mark.via.Shell
+2024-03-08T16:51:02.354650+0800 DEBUG pressed menu button
+2024-03-08T16:51:02.485816+0800 DEBUG set connection to False
+2024-03-08T16:51:03.330768+0800 DEBUG set orientation, original was PORTRAIT
+2024-03-08T16:51:05.148471+0800 DEBUG set connection to True
+2024-03-08T16:51:06.590795+0800 DEBUG action: mark.via:id/e7 Activity: mark.via.Shell
+2024-03-08T16:51:07.083114+0800 DEBUG <--- EPISODE RESET --->
+2024-03-08T16:51:10.300788+0800 DEBUG action: homeAgree Activity: mark.via.Shell
+2024-03-08T16:51:12.458604+0800 DEBUG action:  Activity: mark.via.Shell
+2024-03-08T16:51:13.570146+0800 DEBUG set orientation, original was LANDSCAPE
+2024-03-08T16:51:15.085336+0800 DEBUG action: mark.via.Shell.android.widget.TextView.OK Activity: mark.via.Shell
+2024-03-08T16:51:15.994164+0800 DEBUG action: mark.via:id/ec Activity: mark.via.Shell
+2024-03-08T16:51:16.916941+0800 DEBUG set connection to False
+2024-03-08T16:51:18.305339+0800 DEBUG pressed menu button
+2024-03-08T16:51:18.433101+0800 DEBUG set orientation, original was PORTRAIT
+2024-03-08T16:51:22.560680+0800 DEBUG action: mark.via.Shell.android.widget.TextView.Homepage Activity: mark.via.Shell
+2024-03-08T16:51:25.286178+0800 DEBUG action: Bookmarks Activity: mark.via.Shell
+2024-03-08T16:51:26.830710+0800 DEBUG set connection to True
+2024-03-08T16:51:28.221333+0800 DEBUG action: Home Activity: mark.via.Shell
+2024-03-08T16:51:33.019379+0800 DEBUG action: Search Activity: mark.via.Shell
+2024-03-08T16:51:34.888617+0800 DEBUG action: Go forward Activity: mark.via.Shell
+2024-03-08T16:51:37.736361+0800 DEBUG action: Homepage Activity: mark.via.Shell
+2024-03-08T16:51:41.057152+0800 DEBUG action: Bookmarks Activity: mark.via.Shell
+2024-03-08T16:51:42.946602+0800 DEBUG set orientation, original was LANDSCAPE
+2024-03-08T16:51:45.711060+0800 DEBUG action: Go back Activity: mark.via.Shell
+2024-03-08T16:51:46.246328+0800 DEBUG action: Homepage Activity: mark.via.Shell
+2024-03-08T16:51:47.476353+0800 DEBUG action: search_input Activity: mark.via.Shell
+2024-03-08T16:51:48.084478+0800 DEBUG put string: string6
+2024-03-08T16:51:49.936132+0800 DEBUG action: Homepage Activity: mark.via.Shell
+2024-03-08T16:51:51.307570+0800 DEBUG action: search_submit Activity: mark.via.Shell
+2024-03-08T16:51:59.014496+0800 DEBUG action: 图片 Activity: mark.via.Shell
+2024-03-08T16:52:06.669266+0800 DEBUG action: 最新 Activity: mark.via.Shell
+2024-03-08T16:52:15.960634+0800 DEBUG pressed menu button
+2024-03-08T16:52:19.548499+0800 DEBUG action: Downloads Activity: mark.via.Shell
+2024-03-08T16:52:22.060631+0800 DEBUG action: mark.via:id/do Activity: mark.via.Shell
+2024-03-08T16:52:22.656185+0800 DEBUG action: mark.via:id/do Activity: mark.via.Shell
+2024-03-08T16:52:22.973117+0800 DEBUG action: mark.via.Shell.android.widget.HorizontalScrollView. Activity: mark.via.Shell
+2024-03-08T16:52:24.370137+0800 DEBUG action: mark.via:id/dm Activity: mark.via.Shell
+2024-03-08T16:52:26.813334+0800 DEBUG pressed menu button
+2024-03-08T16:52:26.941640+0800 DEBUG action: mark.via.Shell.android.widget.EditText.File name Activity: mark.via.Shell
+2024-03-08T16:52:28.501189+0800 DEBUG put string: sring5
+2024-03-08T16:52:30.902409+0800 DEBUG action: mark.via:id/e8 Activity: mark.via.Shell
+2024-03-08T16:52:35.461562+0800 DEBUG action: mark.via:id/dm Activity: mark.via.Shell
+2024-03-08T16:52:37.853366+0800 DEBUG action: mark.via:id/e6 Activity: mark.via.Shell
+2024-03-08T16:52:40.001859+0800 DEBUG set orientation, original was PORTRAIT
+2024-03-08T16:52:41.912063+0800 DEBUG action: mark.via:id/do Activity: mark.via.Shell
+2024-03-08T16:52:42.234302+0800 DEBUG set connection to False
+2024-03-08T16:52:43.850591+0800 DEBUG action: mark.via:id/dm Activity: mark.via.Shell
+2024-03-08T16:52:46.311905+0800 DEBUG set orientation, original was LANDSCAPE
+2024-03-08T16:52:49.380007+0800 DEBUG pressed menu button
+2024-03-08T16:52:49.493517+0800 DEBUG action: mark.via.Shell.android.widget.EditText.File name Activity: mark.via.Shell
+2024-03-08T16:52:51.032616+0800 DEBUG put string: sring5
+2024-03-08T17:19:07.216126+0800 DEBUG D:\rltest\ARES-pytorch-ares\test\test_resources\via-release-cn.apk START
+2024-03-08T17:19:17.113116+0800 DEBUG <--- EPISODE RESET --->
+2024-03-08T17:19:20.468431+0800 DEBUG action: homeAgree Activity: mark.via.Shell
+2024-03-08T17:19:24.039480+0800 DEBUG action: Scan QR code Activity: mark.via.Shell
+2024-03-08T17:19:24.871234+0800 DEBUG action: mark.via:id/ai Activity: mark.via.Shell
+2024-03-08T17:19:25.605571+0800 DEBUG set orientation, original was PORTRAIT
+2024-03-08T17:19:26.912365+0800 DEBUG action: mark.via:id/ah Activity: mark.via.Shell
+2024-03-08T17:19:28.814505+0800 DEBUG action: mark.via:id/ah Activity: mark.via.Shell
+2024-03-08T17:19:30.357116+0800 DEBUG pressed menu button
+2024-03-08T17:19:31.106935+0800 DEBUG action: mark.via:id/ai Activity: mark.via.Shell
+2024-03-08T17:19:31.820712+0800 DEBUG action: Navigation up Activity: mark.via.Shell
+2024-03-08T17:19:33.970015+0800 DEBUG set orientation, original was LANDSCAPE
+2024-03-08T17:19:36.291741+0800 DEBUG action: Bookmarks Activity: mark.via.Shell
+2024-03-08T17:19:39.549582+0800 DEBUG action: mark.via:id/cp Activity: mark.via.Shell
+2024-03-08T17:19:42.123777+0800 DEBUG set orientation, original was PORTRAIT
+2024-03-08T17:19:44.698221+0800 DEBUG action: mark.via:id/dn Activity: mark.via.Shell
+2024-03-08T17:19:45.029900+0800 DEBUG action: mark.via.Shell.androidx.viewpager.widget.ViewPager.¯\_(ツ)_/¯ Activity: mark.via.Shell
+2024-03-08T17:19:46.111506+0800 DEBUG action: mark.via:id/du Activity: mark.via.Shell
+2024-03-08T17:19:47.417278+0800 DEBUG pressed menu button
+2024-03-08T17:19:47.541892+0800 DEBUG set orientation, original was LANDSCAPE
+2024-03-08T17:19:49.078639+0800 DEBUG pressed menu button
+2024-03-08T17:19:49.213794+0800 DEBUG set connection to False
+2024-03-08T17:19:50.118032+0800 DEBUG action: mark.via:id/dr Activity: mark.via.Shell
+2024-03-08T17:19:51.368645+0800 DEBUG action: mark.via.Shell.android.widget.RelativeLayout.Restore tabs on startup Activity: mark.via.Shell
+2024-03-08T17:19:54.184411+0800 DEBUG set connection to True
+2024-03-08T17:19:55.584036+0800 DEBUG pressed menu button
+2024-03-08T17:19:55.693606+0800 DEBUG pressed menu button
+2024-03-08T17:19:55.803930+0800 DEBUG pressed menu button
+2024-03-08T17:19:55.930602+0800 DEBUG action: mark.via.Shell.android.widget.FrameLayout. Activity: mark.via.Shell
+2024-03-08T17:19:57.841916+0800 DEBUG action: com.android.launcher3:id/all_apps_handle Activity: mark.via.Shell
+2024-03-08T17:20:00.790160+0800 DEBUG <--- EPISODE RESET --->
+2024-03-11T09:22:45.549933+0800 DEBUG D:\rltest\ARES-pytorch-ares\test\test_resources\via-release-cn.apk START
+2024-03-11T09:22:57.829415+0800 DEBUG <--- EPISODE RESET --->
+2024-03-11T09:23:00.993808+0800 DEBUG action: mark.via:id/e3 Activity: mark.via.Shell
+2024-03-11T09:23:03.502074+0800 DEBUG set orientation, original was PORTRAIT
+2024-03-11T09:23:06.133622+0800 DEBUG action: 站点信息 Activity: mark.via.Shell
+2024-03-11T09:23:09.023629+0800 DEBUG action: 1 个打开的标签 Activity: mark.via.Shell
+2024-03-11T09:23:11.311628+0800 DEBUG action: 官方网站 Activity: mark.via.Shell
+2024-03-11T09:23:12.794303+0800 DEBUG action: 站点信息 Activity: mark.via.Shell
+2024-03-11T09:23:15.665714+0800 DEBUG action: 主页 Activity: mark.via.Shell
+2024-03-11T09:23:17.877176+0800 DEBUG action: 菜单 Activity: mark.via.Shell
+2024-03-11T09:23:20.748334+0800 DEBUG action: 书签 Activity: mark.via.Shell
+2024-03-11T09:23:20.901051+0800 DEBUG action: 书签 Activity: mark.via.Shell
+2024-03-11T09:23:21.048318+0800 DEBUG set orientation, original was LANDSCAPE
+2024-03-11T09:23:23.670894+0800 DEBUG action: 主页 Activity: mark.via.Shell
+2024-03-11T09:23:27.955491+0800 DEBUG action: mark.via.Shell.android.widget.EditText.搜索 Activity: mark.via.Shell
+2024-03-11T09:23:29.522548+0800 DEBUG put string: string2
+2024-03-11T09:23:34.642897+0800 DEBUG set connection to False
+2024-03-11T09:23:36.123834+0800 DEBUG action: 展开文本 Activity: mark.via.Shell
+2024-03-11T09:23:42.548174+0800 DEBUG action: mark.via.Shell.android.widget.EditText.string2 Activity: mark.via.Shell
+2024-03-11T09:23:44.090342+0800 DEBUG put string: string7
+2024-03-11T09:23:49.609447+0800 DEBUG action: mark.via.Shell.android.widget.EditText.string2 Activity: mark.via.Shell
+2024-03-11T09:23:51.761057+0800 DEBUG put string: string6
+2024-03-11T09:23:56.770486+0800 DEBUG action: 搜索引擎 Activity: mark.via.Shell
+2024-03-11T09:23:57.423081+0800 DEBUG action: 站点信息 Activity: mark.via.Shell
+2024-03-11T09:24:05.169148+0800 DEBUG action: mark.via.Shell.android.widget.EditText.string6 Activity: mark.via.Shell
+2024-03-11T09:24:06.905899+0800 DEBUG put string: string3
+2024-03-11T09:24:12.578109+0800 DEBUG action: 书签 Activity: mark.via.Shell
+2024-03-11T09:24:13.439234+0800 DEBUG action: mark.via.Shell.android.widget.EditText.string7 Activity: mark.via.Shell
+2024-03-11T09:24:15.073148+0800 DEBUG put string: ststico
+2024-03-11T09:24:19.803368+0800 DEBUG set connection to True
+2024-03-11T09:24:21.200550+0800 DEBUG action: 折叠文本 Activity: mark.via.Shell
+2024-03-11T09:24:24.665991+0800 DEBUG action: 展开文本 Activity: mark.via.Shell
+2024-03-11T09:24:30.302293+0800 DEBUG action: mark.via.Shell.android.widget.EditText.ststico Activity: mark.via.Shell
+2024-03-11T09:24:31.840731+0800 DEBUG put string: string5
+2024-03-11T09:24:37.032267+0800 DEBUG action: search_input Activity: mark.via.Shell
+2024-03-11T09:24:39.066575+0800 DEBUG put string: string7
+2024-03-11T09:24:44.630918+0800 DEBUG action: 站点信息 Activity: mark.via.Shell

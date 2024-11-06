@@ -1,0 +1,1633 @@
+2024-02-24T20:46:58.662691+0800 DEBUG D:\rltest\ARES-pytorch-ares\test\test_resources\Etar.apk START
+2024-02-24T20:47:08.009814+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T20:47:11.672480+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:13.012480+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:47:14.401721+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:47:17.277245+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:47:18.983196+0800 DEBUG pressed menu button
+2024-02-24T20:47:20.019023+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:21.756022+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:24.612301+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:25.666152+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:27.434420+0800 DEBUG set connection to False
+2024-02-24T20:47:28.650942+0800 DEBUG set connection to True
+2024-02-24T20:47:30.208743+0800 DEBUG set connection to False
+2024-02-24T20:47:31.620448+0800 DEBUG action: android:id/next Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:32.724917+0800 DEBUG action: android:id/prev Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:33.728044+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:35.064473+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:35.737225+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:37.389010+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:40.276233+0800 DEBUG pressed menu button
+2024-02-24T20:47:41.580386+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:43.089046+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:47:45.461263+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:46.714547+0800 DEBUG pressed menu button
+2024-02-24T20:47:48.203822+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:51.173318+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:47:52.588988+0800 DEBUG set connection to True
+2024-02-24T20:47:54.062362+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:47:56.266751+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:47:59.026376+0800 DEBUG set connection to False
+2024-02-24T20:48:00.789455+0800 DEBUG set connection to True
+2024-02-24T20:48:02.247502+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add CalDAV calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:04.112878+0800 DEBUG pressed menu button
+2024-02-24T20:48:04.250020+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:48:07.121398+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.General settings Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:10.029072+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Primary color Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:12.193025+0800 DEBUG set connection to False
+2024-02-24T20:48:13.731831+0800 DEBUG pressed menu button
+2024-02-24T20:48:13.887336+0800 DEBUG pressed menu button
+2024-02-24T20:48:14.041318+0800 DEBUG action: Color 1 selected Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:17.113699+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Primary color Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:19.695552+0800 DEBUG action: Color 1 selected Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:22.270451+0800 DEBUG pressed menu button
+2024-02-24T20:48:22.408349+0800 DEBUG set connection to True
+2024-02-24T20:48:23.878570+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:27.057978+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:30.045308+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:48:34.746989+0800 DEBUG set connection to False
+2024-02-24T20:48:36.164220+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:39.059196+0800 DEBUG pressed menu button
+2024-02-24T20:48:39.188851+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:40.290559+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Hide declined events Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:44.703576+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Primary color Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:47.269165+0800 DEBUG action: Color 5 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:52.340230+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:55.961538+0800 DEBUG pressed menu button
+2024-02-24T20:48:56.119322+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:48:57.348755+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:01.161123+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.General settings Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:07.161592+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:12.928233+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Theme Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:14.881556+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:21.171567+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Hide declined events Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:26.790677+0800 DEBUG set connection to True
+2024-02-24T20:49:28.255656+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Show week number Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:33.877241+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Show week number Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:39.628147+0800 DEBUG set connection to False
+2024-02-24T20:49:41.055637+0800 DEBUG set connection to True
+2024-02-24T20:49:42.472402+0800 DEBUG set connection to False
+2024-02-24T20:49:43.938606+0800 DEBUG set connection to True
+2024-02-24T20:49:45.397493+0800 DEBUG pressed menu button
+2024-02-24T20:49:45.516052+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:46.646962+0800 DEBUG pressed menu button
+2024-02-24T20:49:46.847716+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:49:54.126028+0800 DEBUG set connection to False
+2024-02-24T20:49:55.520548+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:02.236593+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:08.462135+0800 DEBUG set connection to True
+2024-02-24T20:50:09.917994+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Primary color Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:13.042447+0800 DEBUG action: Color 6 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:19.832533+0800 DEBUG set connection to False
+2024-02-24T20:50:21.312734+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:29.892124+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Primary color Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:33.905312+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:50:38.030767+0800 DEBUG set connection to True
+2024-02-24T20:50:39.501604+0800 DEBUG set connection to False
+2024-02-24T20:50:40.909077+0800 DEBUG action: Color 2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:45.832871+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Use real event colors Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:51.311127+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:50:56.733631+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Primary color Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:01.668916+0800 DEBUG pressed menu button
+2024-02-24T20:51:01.826965+0800 DEBUG action: Color 5 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:07.216785+0800 DEBUG set connection to True
+2024-02-24T20:51:08.745086+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Default view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:12.551964+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:18.332877+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:23.873424+0800 DEBUG pressed menu button
+2024-02-24T20:51:24.009643+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:25.992973+0800 DEBUG pressed menu button
+2024-02-24T20:51:26.181471+0800 DEBUG pressed menu button
+2024-02-24T20:51:26.328716+0800 DEBUG set connection to False
+2024-02-24T20:51:27.802519+0800 DEBUG set connection to True
+2024-02-24T20:51:29.343735+0800 DEBUG set connection to False
+2024-02-24T20:51:30.864143+0800 DEBUG pressed menu button
+2024-02-24T20:51:31.303808+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:32.822688+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:33.773223+0800 DEBUG pressed menu button
+2024-02-24T20:51:33.895603+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:34.521130+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:35.083352+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:40.447889+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:41.979969+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:46.889402+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:51:49.783135+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:51:52.936750+0800 DEBUG set connection to True
+2024-02-24T20:51:54.436215+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:51:57.737115+0800 DEBUG set connection to False
+2024-02-24T20:51:59.199199+0800 DEBUG pressed menu button
+2024-02-24T20:52:02.910646+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:05.983493+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:07.512411+0800 DEBUG set connection to True
+2024-02-24T20:52:08.894422+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:09.593261+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:12.730430+0800 DEBUG pressed menu button
+2024-02-24T20:52:15.348937+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:16.029916+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:52:19.144957+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:20.279936+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:52:21.633742+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:52:27.230370+0800 DEBUG set connection to False
+2024-02-24T20:52:28.681887+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:52:30.319403+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:52:32.840742+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:52:34.368115+0800 DEBUG set connection to True
+2024-02-24T20:52:35.847371+0800 DEBUG set connection to False
+2024-02-24T20:52:37.326021+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:52:40.336265+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:52:45.084731+0800 DEBUG set connection to True
+2024-02-24T20:52:46.591785+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:52:48.208206+0800 DEBUG set connection to False
+2024-02-24T20:52:49.721889+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:52:52.155922+0800 DEBUG action: ws.xsoh.etar:id/offline_calendar_name Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:52:53.707008+0800 DEBUG put string: accipigna
+2024-02-24T20:52:55.113079+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:52:57.650261+0800 DEBUG set connection to True
+2024-02-24T20:52:59.123576+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:53:02.126066+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:53:04.611253+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:53:07.020983+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:53:09.594997+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:53:15.099409+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add EteSync calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:53:16.575488+0800 DEBUG set connection to False
+2024-02-24T20:53:18.462560+0800 DEBUG set connection to True
+2024-02-24T20:53:19.995326+0800 DEBUG set connection to False
+2024-02-24T20:53:21.440350+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:53:21.632783+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add EteSync calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:53:21.785323+0800 DEBUG set connection to True
+2024-02-24T20:53:23.261130+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:53:25.757901+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:53:31.078621+0800 DEBUG set connection to False
+2024-02-24T20:53:32.533150+0800 DEBUG action: ws.xsoh.etar:id/action_about Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:53:37.876093+0800 DEBUG action: Navigate up Activity: com.android.calendar.AboutActivity
+2024-02-24T20:53:40.720684+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:53:42.112449+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:53:44.899461+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:53:48.169925+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:53:51.446647+0800 DEBUG pressed menu button
+2024-02-24T20:53:54.067472+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:53:59.258678+0800 DEBUG action: ws.xsoh.etar:id/agenda_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:03.882884+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events after Jun 1, 2024 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:07.595519+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events before Nov 25, 2023 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:11.316495+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:15.796738+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:21.733011+0800 DEBUG action: ws.xsoh.etar:id/action_about Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:26.474477+0800 DEBUG action: ws.xsoh.etar:id/issues Activity: com.android.calendar.AboutActivity
+2024-02-24T20:54:28.191291+0800 DEBUG action: ws.xsoh.etar:id/issues Activity: com.android.calendar.AboutActivity
+2024-02-24T20:54:30.396880+0800 DEBUG action: ws.xsoh.etar:id/issues Activity: com.android.calendar.AboutActivity
+2024-02-24T20:54:32.274732+0800 DEBUG pressed menu button
+2024-02-24T20:54:32.391808+0800 DEBUG action: Navigate up Activity: com.android.calendar.AboutActivity
+2024-02-24T20:54:36.354334+0800 DEBUG pressed menu button
+2024-02-24T20:54:39.745711+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:43.220359+0800 DEBUG set connection to True
+2024-02-24T20:54:44.772467+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:49.018899+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:51.847585+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:54:55.762353+0800 DEBUG set connection to False
+2024-02-24T20:54:57.196826+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:55:02.233061+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:55:06.763155+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:55:10.224328+0800 DEBUG set connection to True
+2024-02-24T20:55:11.644459+0800 DEBUG pressed menu button
+2024-02-24T20:55:15.536607+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:55:16.204427+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:55:20.843642+0800 DEBUG set connection to False
+2024-02-24T20:55:22.216145+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:55:22.884706+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:55:27.460195+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:55:28.850530+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:55:34.450339+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:35.996603+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:55:38.475767+0800 DEBUG set connection to True
+2024-02-24T20:55:40.205938+0800 DEBUG set connection to False
+2024-02-24T20:55:41.580654+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:43.186457+0800 DEBUG action: ws.xsoh.etar:id/offline_calendar_name Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:44.742445+0800 DEBUG put string: string2
+2024-02-24T20:55:46.127683+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:51.164677+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add EteSync calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:52.585859+0800 DEBUG set connection to True
+2024-02-24T20:55:54.379648+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:54.530952+0800 DEBUG pressed menu button
+2024-02-24T20:55:54.664806+0800 DEBUG pressed menu button
+2024-02-24T20:55:55.135801+0800 DEBUG pressed menu button
+2024-02-24T20:55:55.276137+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:55:59.258061+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:56:01.409541+0800 DEBUG set connection to False
+2024-02-24T20:56:02.849641+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:56:08.154805+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.General settings Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:56:15.981860+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Use real event colors Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:56:23.435794+0800 DEBUG set connection to True
+2024-02-24T20:56:24.885604+0800 DEBUG pressed menu button
+2024-02-24T20:56:25.051602+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:56:32.863213+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:56:39.054919+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Use real event colors Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:56:44.574635+0800 DEBUG set connection to False
+2024-02-24T20:56:45.969153+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:56:54.133481+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Show week number Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:02.455504+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Default view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:05.126668+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:13.703911+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Show week number Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:21.606933+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Display options Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:29.210981+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Display time Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:31.760534+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:57:34.476409+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:40.139350+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:57:45.957606+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:57:55.190067+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Show week number Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:58:03.409923+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:58:08.936984+0800 DEBUG set connection to True
+2024-02-24T20:58:10.448901+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T20:58:15.660631+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:58:21.510200+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:58:26.264427+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:58:32.245250+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:58:37.364821+0800 DEBUG action: ws.xsoh.etar:id/source Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:39.335049+0800 DEBUG action: ws.xsoh.etar:id/licenseLayout Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:41.088071+0800 DEBUG action: ws.xsoh.etar:id/source Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:42.893630+0800 DEBUG action: ws.xsoh.etar:id/source Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:44.600800+0800 DEBUG action: ws.xsoh.etar:id/issues Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:46.347534+0800 DEBUG set connection to False
+2024-02-24T20:58:47.885876+0800 DEBUG action: ws.xsoh.etar:id/licenseLayout Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:49.945205+0800 DEBUG action: ws.xsoh.etar:id/source Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:51.641032+0800 DEBUG pressed menu button
+2024-02-24T20:58:51.853222+0800 DEBUG action: Navigate up Activity: com.android.calendar.AboutActivity
+2024-02-24T20:58:54.473780+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:58:56.530657+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:59:02.101832+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T20:59:05.081255+0800 DEBUG pressed menu button
+2024-02-24T20:59:08.291331+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:11.233001+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:14.434577+0800 DEBUG set connection to True
+2024-02-24T20:59:15.904038+0800 DEBUG set connection to False
+2024-02-24T20:59:17.254174+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Search Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:20.319802+0800 DEBUG pressed menu button
+2024-02-24T20:59:24.538897+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T20:59:27.741965+0800 DEBUG set connection to True
+2024-02-24T20:59:29.109041+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:31.321112+0800 DEBUG set connection to False
+2024-02-24T20:59:32.708220+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T20:59:35.430858+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:38.545202+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T20:59:41.670067+0800 DEBUG set connection to True
+2024-02-24T20:59:43.541072+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:48.755976+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:51.711419+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:52.383257+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T20:59:57.457673+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:01.085440+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:02.480520+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:03.150965+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:08.102600+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:11.097689+0800 DEBUG set connection to False
+2024-02-24T21:00:12.663262+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:13.315196+0800 DEBUG pressed menu button
+2024-02-24T21:00:16.364251+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:19.435632+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:00:22.739891+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:25.792913+0800 DEBUG pressed menu button
+2024-02-24T21:00:28.280803+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:33.359087+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:36.325940+0800 DEBUG set connection to True
+2024-02-24T21:00:37.725573+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:38.398887+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:43.510445+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:46.467984+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:47.796910+0800 DEBUG set connection to False
+2024-02-24T21:00:49.240336+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:00:52.573382+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:00:55.762938+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:56.431274+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:57.826703+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:00:59.251259+0800 DEBUG set connection to True
+2024-02-24T21:01:00.812526+0800 DEBUG pressed menu button
+2024-02-24T21:01:03.723844+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:07.175492+0800 DEBUG action: android:id/prev Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:09.544625+0800 DEBUG action: android:id/prev Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:11.947210+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:14.485468+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:17.526667+0800 DEBUG pressed menu button
+2024-02-24T21:01:19.984276+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:20.639845+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:22.007274+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:01:25.726487+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:27.122561+0800 DEBUG set connection to False
+2024-02-24T21:01:28.521574+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:33.710761+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:36.752224+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:01:41.928913+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:01:47.103782+0800 DEBUG set connection to True
+2024-02-24T21:01:48.497324+0800 DEBUG pressed menu button
+2024-02-24T21:01:51.517670+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:01:57.378408+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:02:02.768455+0800 DEBUG action: ws.xsoh.etar:id/action_settings Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:02:07.994207+0800 DEBUG set connection to False
+2024-02-24T21:02:09.798677+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:11.384422+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:12.814252+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:02:15.275028+0800 DEBUG pressed menu button
+2024-02-24T21:02:15.398129+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:02:18.286470+0800 DEBUG action: ws.xsoh.etar:id/offline_calendar_name Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:19.843485+0800 DEBUG put string: tonio_cartonio
+2024-02-24T21:02:21.560835+0800 DEBUG action: ws.xsoh.etar:id/offline_calendar_name Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:23.139009+0800 DEBUG put string: tonio
+2024-02-24T21:02:24.769611+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:30.939099+0800 DEBUG set connection to True
+2024-02-24T21:02:32.328704+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:02:39.184838+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:40.691476+0800 DEBUG action: ws.xsoh.etar:id/offline_calendar_name Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:42.340756+0800 DEBUG put string: string4
+2024-02-24T21:02:43.633841+0800 DEBUG set connection to False
+2024-02-24T21:02:45.012427+0800 DEBUG action: ws.xsoh.etar:id/offline_calendar_name Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:46.583201+0800 DEBUG put string: string7
+2024-02-24T21:02:47.869367+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:54.117226+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.General settings Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:02:59.843424+0800 DEBUG pressed menu button
+2024-02-24T21:03:01.185384+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Default view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:04.140240+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:03:07.321241+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:14.838595+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:15.956829+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:03:21.971960+0800 DEBUG set connection to True
+2024-02-24T21:03:23.458745+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:28.958895+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:30.430141+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Pure black night mode Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:35.965520+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:37.089627+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:03:45.251646+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Hide declined events Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:52.830025+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:03:53.990445+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:04:00.033671+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Use real event colors Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:05.745311+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:06.856586+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:04:14.938503+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Hide declined events Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:22.311795+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:04:29.157335+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:36.223244+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:37.844863+0800 DEBUG set connection to False
+2024-02-24T21:04:39.359084+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:45.586524+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:04:48.554608+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:04:51.656808+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:04:54.874203+0800 DEBUG pressed menu button
+2024-02-24T21:04:57.629114+0800 DEBUG pressed menu button
+2024-02-24T21:05:01.773939+0800 DEBUG pressed menu button
+2024-02-24T21:05:04.278998+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:06.086257+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:07.461763+0800 DEBUG set connection to True
+2024-02-24T21:05:09.136075+0800 DEBUG pressed menu button
+2024-02-24T21:05:12.109754+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:05:15.640639+0800 DEBUG pressed menu button
+2024-02-24T21:05:18.657920+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Search Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:22.161544+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:24.965212+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:29.129959+0800 DEBUG pressed menu button
+2024-02-24T21:05:32.108956+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:34.549972+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:38.369717+0800 DEBUG set connection to False
+2024-02-24T21:05:39.747259+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:42.412722+0800 DEBUG action: ws.xsoh.etar:id/search_src_text Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:44.040162+0800 DEBUG put string: string6
+2024-02-24T21:05:47.142124+0800 DEBUG pressed menu button
+2024-02-24T21:05:50.938693+0800 DEBUG set connection to True
+2024-02-24T21:05:52.419859+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:55.690969+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:05:59.768984+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:03.249192+0800 DEBUG action: Collapse Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:05.394435+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:08.899791+0800 DEBUG pressed menu button
+2024-02-24T21:06:11.005292+0800 DEBUG pressed menu button
+2024-02-24T21:06:13.941967+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Search Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:17.476120+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:06:20.678946+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:06:23.823376+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:24.696583+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:25.368850+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:30.499225+0800 DEBUG pressed menu button
+2024-02-24T21:06:30.624363+0800 DEBUG action: ws.xsoh.etar:id/is_all_day_label Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:06:34.787248+0800 DEBUG action: ws.xsoh.etar:id/change_color_new_event Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:06:42.492244+0800 DEBUG action: Color 6 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:06:46.484612+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:06:49.694343+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:54.806259+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:57.829277+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:06:58.784686+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:04.663916+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:07.913382+0800 DEBUG pressed menu button
+2024-02-24T21:07:11.308068+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:14.347227+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:20.237519+0800 DEBUG action: ws.xsoh.etar:id/calendars_spinner Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:07:22.497761+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:07:25.623303+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:31.005595+0800 DEBUG action: ws.xsoh.etar:id/start_date Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:07:33.734760+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:07:37.438746+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:07:40.516916+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:45.611667+0800 DEBUG action: ws.xsoh.etar:id/action_settings Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:07:51.939239+0800 DEBUG action: ws.xsoh.etar:id/recycler_view Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:53.297741+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add CalDAV calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:54.910953+0800 DEBUG set connection to False
+2024-02-24T21:07:56.828863+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add EteSync calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:56.973624+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add CalDAV calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:57.186027+0800 DEBUG set connection to True
+2024-02-24T21:07:58.740058+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add CalDAV calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:59.224352+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add offline calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:59.381398+0800 DEBUG action: com.android.calendar.settings.SettingsActivity.android.widget.LinearLayout.Add CalDAV calendar Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:07:59.858705+0800 DEBUG action: Navigate up Activity: com.android.calendar.settings.SettingsActivity
+2024-02-24T21:08:02.669892+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:05.734976+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:08:08.860107+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:09.540747+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:08:12.651727+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:14.020562+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:17.341873+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Search Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:20.830600+0800 DEBUG action: Collapse Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:23.902129+0800 DEBUG set connection to False
+2024-02-24T21:08:25.635011+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:31.438706+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:08:36.537765+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:39.457755+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:08:45.238408+0800 DEBUG action: ws.xsoh.etar:id/title Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:08:46.807586+0800 DEBUG put string: string4
+2024-02-24T21:08:51.752446+0800 DEBUG action: ws.xsoh.etar:id/timezone_button Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:08:53.035210+0800 DEBUG set connection to True
+2024-02-24T21:08:54.507215+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:08:57.855860+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:03.425372+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:06.930823+0800 DEBUG set connection to False
+2024-02-24T21:09:08.323070+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:11.395199+0800 DEBUG set connection to True
+2024-02-24T21:09:12.849138+0800 DEBUG pressed menu button
+2024-02-24T21:09:15.371356+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:20.604559+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:09:23.918203+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:29.153796+0800 DEBUG action: ws.xsoh.etar:id/agenda_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:33.184699+0800 DEBUG set connection to False
+2024-02-24T21:09:34.559136+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events before Nov 25, 2023 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:38.723718+0800 DEBUG pressed menu button
+2024-02-24T21:09:41.757812+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T21:09:46.721330+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:51.861777+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:54.968421+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:55.600041+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:56.250364+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:09:56.890840+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:10:00.793427+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:10:01.820876+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:10:07.324194+0800 DEBUG action: ws.xsoh.etar:id/end_time Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:10.061754+0800 DEBUG set connection to True
+2024-02-24T21:10:11.534057+0800 DEBUG action: android:id/pm_label Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:12.071086+0800 DEBUG set connection to False
+2024-02-24T21:10:13.751992+0800 DEBUG action: android:id/minutes Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:16.300884+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:20.657400+0800 DEBUG action: ws.xsoh.etar:id/is_all_day Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:24.997773+0800 DEBUG action: ws.xsoh.etar:id/title Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:26.557472+0800 DEBUG put string: string3
+2024-02-24T21:10:30.308273+0800 DEBUG action: ws.xsoh.etar:id/start_date Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:33.297091+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:36.900453+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:39.753604+0800 DEBUG set connection to True
+2024-02-24T21:10:42.032502+0800 DEBUG action: android:id/next Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:44.466455+0800 DEBUG action: android:id/day_picker_view_pager Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:45.917873+0800 DEBUG action: android:id/date_picker_header_date Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:48.218227+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:51.683233+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:54.519783+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:58.104244+0800 DEBUG pressed menu button
+2024-02-24T21:10:58.227636+0800 DEBUG action: android:id/date_picker_year_picker Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:10:59.381257+0800 DEBUG action: android:id/button1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:11:03.707260+0800 DEBUG set connection to False
+2024-02-24T21:11:05.044243+0800 DEBUG action: ws.xsoh.etar:id/action_done Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:11:07.752965+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:11:12.975914+0800 DEBUG pressed menu button
+2024-02-24T21:11:16.289765+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:11:19.350251+0800 DEBUG action: android:id/day_picker_view_pager Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:11:20.460046+0800 DEBUG action: android:id/day_picker_view_pager Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:11:21.997098+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:11:27.494030+0800 DEBUG set connection to True
+2024-02-24T21:11:28.873786+0800 DEBUG action: ws.xsoh.etar:id/week_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:11:31.846586+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:11:34.920402+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:11:38.435834+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:11:44.130456+0800 DEBUG pressed menu button
+2024-02-24T21:11:44.282564+0800 DEBUG action: ws.xsoh.etar:id/title Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:11:45.849156+0800 DEBUG put string: 50
+2024-02-24T21:11:50.957254+0800 DEBUG set connection to False
+2024-02-24T21:11:52.450852+0800 DEBUG set connection to True
+2024-02-24T21:11:54.019847+0800 DEBUG action: ws.xsoh.etar:id/end_date Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:11:56.743222+0800 DEBUG action: android:id/day_picker_view_pager Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:11:57.909012+0800 DEBUG set connection to False
+2024-02-24T21:11:59.241096+0800 DEBUG action: android:id/prev Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:02.211545+0800 DEBUG action: android:id/date_picker_header_year Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:06.227185+0800 DEBUG action: android:id/date_picker_year_picker Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:07.320038+0800 DEBUG action: android:id/text1 Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:10.016861+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:12:13.348505+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:12:18.229581+0800 DEBUG action: ws.xsoh.etar:id/scroll_view Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:19.696778+0800 DEBUG action: ws.xsoh.etar:id/scroll_view Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:20.780479+0800 DEBUG set connection to True
+2024-02-24T21:12:22.400649+0800 DEBUG action: ws.xsoh.etar:id/scroll_view Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:23.525765+0800 DEBUG pressed menu button
+2024-02-24T21:12:23.817355+0800 DEBUG action: ws.xsoh.etar:id/is_all_day Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:12:28.025266+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:12:31.109812+0800 DEBUG pressed menu button
+2024-02-24T21:12:34.091290+0800 DEBUG set connection to False
+2024-02-24T21:12:35.859673+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:12:38.963958+0800 DEBUG set connection to True
+2024-02-24T21:12:40.351961+0800 DEBUG action: ws.xsoh.etar:id/action_info Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:12:42.036416+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:12:44.730032+0800 DEBUG pressed menu button
+2024-02-24T21:12:47.690793+0800 DEBUG pressed menu button
+2024-02-24T21:12:50.205688+0800 DEBUG set connection to False
+2024-02-24T21:12:51.585365+0800 DEBUG set connection to True
+2024-02-24T21:12:52.935129+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:12:53.587552+0800 DEBUG set connection to False
+2024-02-24T21:12:54.949460+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:12:55.828131+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:12:56.480298+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:12:59.570831+0800 DEBUG set connection to True
+2024-02-24T21:13:01.009669+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:13:01.667116+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:13:07.827287+0800 DEBUG action: ws.xsoh.etar:id/scroll_view Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:13:08.949850+0800 DEBUG set connection to False
+2024-02-24T21:13:10.451503+0800 DEBUG action: ws.xsoh.etar:id/scroll_view Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:13:11.568981+0800 DEBUG set connection to True
+2024-02-24T21:13:13.078431+0800 DEBUG action: ws.xsoh.etar:id/action_cancel Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:13:15.665422+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:13:18.789310+0800 DEBUG set connection to False
+2024-02-24T21:13:20.170673+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:13:25.184297+0800 DEBUG set connection to True
+2024-02-24T21:13:26.629323+0800 DEBUG action: ws.xsoh.etar:id/start_time Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:13:29.271028+0800 DEBUG set connection to False
+2024-02-24T21:13:30.689489+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:13:34.136654+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:13:37.180700+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:13:42.512112+0800 DEBUG set connection to True
+2024-02-24T21:13:43.988646+0800 DEBUG set connection to False
+2024-02-24T21:13:45.746199+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:13:51.030437+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:13:53.966700+0800 DEBUG set connection to True
+2024-02-24T21:13:55.408559+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:00.989692+0800 DEBUG set connection to False
+2024-02-24T21:14:02.388883+0800 DEBUG set connection to True
+2024-02-24T21:14:03.873368+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:14:09.288103+0800 DEBUG pressed menu button
+2024-02-24T21:14:12.491035+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:14:17.870338+0800 DEBUG set connection to False
+2024-02-24T21:14:19.361523+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:22.295048+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:22.934490+0800 DEBUG action: ws.xsoh.etar:id/action_today Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:23.621341+0800 DEBUG pressed menu button
+2024-02-24T21:14:26.651947+0800 DEBUG pressed menu button
+2024-02-24T21:14:29.384495+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:34.248558+0800 DEBUG set connection to True
+2024-02-24T21:14:35.818778+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:38.824055+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:43.857551+0800 DEBUG action: ws.xsoh.etar:id/week_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:47.080436+0800 DEBUG set connection to False
+2024-02-24T21:14:48.465170+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:14:51.580395+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:14:56.621333+0800 DEBUG action: ws.xsoh.etar:id/agenda_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:01.262161+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:15:05.493990+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:08.623401+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:15:13.096093+0800 DEBUG set connection to True
+2024-02-24T21:15:14.469749+0800 DEBUG set connection to False
+2024-02-24T21:15:15.841430+0800 DEBUG set connection to True
+2024-02-24T21:15:17.516329+0800 DEBUG set connection to False
+2024-02-24T21:15:19.033504+0800 DEBUG set connection to True
+2024-02-24T21:15:20.590761+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events before Nov 25, 2023 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:24.385542+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:30.297567+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events after Jun 1, 2024 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:34.315792+0800 DEBUG pressed menu button
+2024-02-24T21:15:37.283993+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:15:41.792725+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:47.916578+0800 DEBUG set connection to False
+2024-02-24T21:15:49.329383+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:15:53.673060+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:15:56.855052+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:16:01.513576+0800 DEBUG pressed menu button
+2024-02-24T21:16:04.458513+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:16:08.706587+0800 DEBUG set connection to True
+2024-02-24T21:16:10.109235+0800 DEBUG pressed menu button
+2024-02-24T21:16:13.046586+0800 DEBUG set connection to False
+2024-02-24T21:16:14.426713+0800 DEBUG set connection to True
+2024-02-24T21:16:15.891558+0800 DEBUG set connection to False
+2024-02-24T21:16:17.446984+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:16:21.576276+0800 DEBUG set connection to True
+2024-02-24T21:16:23.045642+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events after Jun 1, 2024 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:16:26.837481+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:16:30.918911+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events before Nov 25, 2023 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:16:34.828078+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:16:39.094976+0800 DEBUG set connection to False
+2024-02-24T21:16:40.586312+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:16:44.604031+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:16:50.511471+0800 DEBUG action: ws.xsoh.etar:id/title Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:16:52.072809+0800 DEBUG put string: string3
+2024-02-24T21:16:56.502322+0800 DEBUG action: ws.xsoh.etar:id/start_date Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:16:59.506985+0800 DEBUG set connection to True
+2024-02-24T21:17:01.020681+0800 DEBUG set connection to False
+2024-02-24T21:17:02.459585+0800 DEBUG pressed menu button
+2024-02-24T21:17:02.658845+0800 DEBUG set connection to True
+2024-02-24T21:17:04.130094+0800 DEBUG set connection to False
+2024-02-24T21:17:05.533621+0800 DEBUG set connection to True
+2024-02-24T21:17:07.001606+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:17:11.408584+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:17:17.802218+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:17:21.731629+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:17:27.747654+0800 DEBUG pressed menu button
+2024-02-24T21:17:27.940352+0800 DEBUG action: ws.xsoh.etar:id/action_done Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:17:34.920720+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:17:41.778426+0800 DEBUG pressed menu button
+2024-02-24T21:17:44.890241+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:17:52.019196+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:17:59.008430+0800 DEBUG pressed menu button
+2024-02-24T21:18:02.563367+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:18:08.907232+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:18:11.984072+0800 DEBUG set connection to False
+2024-02-24T21:18:13.306021+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:18:18.486628+0800 DEBUG action: ws.xsoh.etar:id/month_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:18:26.926576+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:18:35.613423+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:18:44.337911+0800 DEBUG pressed menu button
+2024-02-24T21:18:48.421017+0800 DEBUG set connection to True
+2024-02-24T21:18:49.837613+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:18:58.569441+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:03.172651+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:19:07.405878+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events after Jun 12, 2024 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:10.992647+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events before Dec 6, 2023 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:14.795505+0800 DEBUG set connection to False
+2024-02-24T21:19:16.213360+0800 DEBUG set connection to True
+2024-02-24T21:19:17.668180+0800 DEBUG set connection to False
+2024-02-24T21:19:18.952840+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.TextView.Touch to view events before Oct 6, 2023 Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:23.148402+0800 DEBUG set connection to True
+2024-02-24T21:19:24.444191+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:30.648909+0800 DEBUG pressed menu button
+2024-02-24T21:19:33.630733+0800 DEBUG pressed menu button
+2024-02-24T21:19:39.214510+0800 DEBUG action: ws.xsoh.etar:id/day_menu_item Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:42.157685+0800 DEBUG set connection to False
+2024-02-24T21:19:43.501806+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:19:46.603847+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:19:49.910229+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:19:53.439773+0800 DEBUG set connection to True
+2024-02-24T21:19:54.896637+0800 DEBUG set connection to False
+2024-02-24T21:19:56.252953+0800 DEBUG set connection to True
+2024-02-24T21:19:57.607288+0800 DEBUG set connection to False
+2024-02-24T21:19:59.020177+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:20:02.732405+0800 DEBUG set connection to True
+2024-02-24T21:20:04.208762+0800 DEBUG set connection to False
+2024-02-24T21:20:05.665655+0800 DEBUG set connection to True
+2024-02-24T21:20:07.148348+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:20:10.607011+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:20:16.876740+0800 DEBUG action: ws.xsoh.etar:id/end_time Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:20:19.557144+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:20:22.887584+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:20:26.081715+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:20:29.434119+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:20:34.822448+0800 DEBUG action: ws.xsoh.etar:id/is_all_day Activity: com.android.calendar.event.EditEventActivity
+2024-02-24T21:20:39.341865+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:20:42.888896+0800 DEBUG set connection to False
+2024-02-24T21:20:44.335443+0800 DEBUG set connection to True
+2024-02-24T21:20:45.721185+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:20:46.349870+0800 DEBUG set connection to False
+2024-02-24T21:20:47.739063+0800 DEBUG set connection to True
+2024-02-24T21:20:49.277111+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:20:52.513273+0800 DEBUG pressed menu button
+2024-02-24T21:20:55.705238+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:20:58.872112+0800 DEBUG set connection to False
+2024-02-24T21:21:00.760034+0800 DEBUG pressed menu button
+2024-02-24T21:21:04.221919+0800 DEBUG set connection to True
+2024-02-24T21:21:05.788518+0800 DEBUG pressed menu button
+2024-02-24T21:21:08.447530+0800 DEBUG pressed menu button
+2024-02-24T21:21:11.627340+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T21:21:16.894500+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:21:21.266691+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:21:27.624327+0800 DEBUG set connection to False
+2024-02-24T21:21:29.263473+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:21:32.891841+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:21:36.365960+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:21:40.040589+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:21:43.945060+0800 DEBUG set connection to True
+2024-02-24T21:21:45.445812+0800 DEBUG set connection to False
+2024-02-24T21:21:46.924694+0800 DEBUG set connection to True
+2024-02-24T21:21:48.362447+0800 DEBUG pressed menu button
+2024-02-24T21:21:51.042695+0800 DEBUG pressed menu button
+2024-02-24T21:21:54.628493+0800 DEBUG set connection to False
+2024-02-24T21:21:55.978117+0800 DEBUG set connection to True
+2024-02-24T21:21:57.432026+0800 DEBUG set connection to False
+2024-02-24T21:21:58.934134+0800 DEBUG set connection to True
+2024-02-24T21:22:00.773617+0800 DEBUG set connection to False
+2024-02-24T21:22:02.199150+0800 DEBUG set connection to True
+2024-02-24T21:22:03.596459+0800 DEBUG set connection to False
+2024-02-24T21:22:04.938573+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:22:08.784458+0800 DEBUG pressed menu button
+2024-02-24T21:22:14.226235+0800 DEBUG pressed menu button
+2024-02-24T21:22:18.010140+0800 DEBUG pressed menu button
+2024-02-24T21:22:23.395429+0800 DEBUG set connection to True
+2024-02-24T21:22:25.536801+0800 DEBUG set connection to False
+2024-02-24T21:22:26.971490+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Go to… Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:22:30.198818+0800 DEBUG set connection to True
+2024-02-24T21:22:31.667852+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:22:35.113278+0800 DEBUG set connection to False
+2024-02-24T21:22:36.407727+0800 DEBUG pressed menu button
+2024-02-24T21:22:39.511590+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:22:42.711630+0800 DEBUG set connection to True
+2024-02-24T21:22:44.108246+0800 DEBUG set connection to False
+2024-02-24T21:22:45.472913+0800 DEBUG set connection to True
+2024-02-24T21:22:46.875553+0800 DEBUG pressed menu button
+2024-02-24T21:22:49.943455+0800 DEBUG set connection to False
+2024-02-24T21:22:51.532298+0800 DEBUG set connection to True
+2024-02-24T21:22:52.940762+0800 DEBUG set connection to False
+2024-02-24T21:22:54.254989+0800 DEBUG set connection to True
+2024-02-24T21:22:55.737142+0800 DEBUG set connection to False
+2024-02-24T21:22:57.145420+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:23:01.004442+0800 DEBUG pressed menu button
+2024-02-24T21:23:04.084213+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:23:07.232056+0800 DEBUG set connection to True
+2024-02-24T21:23:08.673091+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:23:11.717875+0800 DEBUG set connection to False
+2024-02-24T21:23:13.051288+0800 DEBUG set connection to True
+2024-02-24T21:23:14.389039+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:23:17.579184+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:23:20.875090+0800 DEBUG set connection to False
+2024-02-24T21:23:22.277854+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:23:25.335776+0800 DEBUG set connection to True
+2024-02-24T21:23:26.747201+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:23:33.224024+0800 DEBUG set connection to False
+2024-02-24T21:23:34.594178+0800 DEBUG set connection to True
+2024-02-24T21:23:35.987817+0800 DEBUG set connection to False
+2024-02-24T21:23:37.286652+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:23:40.486726+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:23:43.763412+0800 DEBUG set connection to True
+2024-02-24T21:23:45.161149+0800 DEBUG pressed menu button
+2024-02-24T21:23:48.386112+0800 DEBUG set connection to False
+2024-02-24T21:23:49.777967+0800 DEBUG set connection to True
+2024-02-24T21:23:51.242580+0800 DEBUG set connection to False
+2024-02-24T21:23:52.541451+0800 DEBUG set connection to True
+2024-02-24T21:23:53.982878+0800 DEBUG set connection to False
+2024-02-24T21:23:55.369055+0800 DEBUG set connection to True
+2024-02-24T21:23:56.800409+0800 DEBUG set connection to False
+2024-02-24T21:23:58.178141+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:24:01.482154+0800 DEBUG set connection to True
+2024-02-24T21:24:02.912824+0800 DEBUG set connection to False
+2024-02-24T21:24:04.289652+0800 DEBUG set connection to True
+2024-02-24T21:24:05.709937+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:24:08.954352+0800 DEBUG set connection to False
+2024-02-24T21:24:10.327249+0800 DEBUG set connection to True
+2024-02-24T21:24:11.815180+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:24:14.964647+0800 DEBUG set connection to False
+2024-02-24T21:24:16.591770+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:24:22.019636+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:24:25.026981+0800 DEBUG pressed menu button
+2024-02-24T21:24:27.975462+0800 DEBUG set connection to True
+2024-02-24T21:24:29.384226+0800 DEBUG set connection to False
+2024-02-24T21:24:30.688491+0800 DEBUG set connection to True
+2024-02-24T21:24:32.130316+0800 DEBUG set connection to False
+2024-02-24T21:24:33.692048+0800 DEBUG set connection to True
+2024-02-24T21:24:35.078001+0800 DEBUG set connection to False
+2024-02-24T21:24:36.475929+0800 DEBUG set connection to True
+2024-02-24T21:24:37.940632+0800 DEBUG set connection to False
+2024-02-24T21:24:39.274613+0800 DEBUG set connection to True
+2024-02-24T21:24:40.684087+0800 DEBUG set connection to False
+2024-02-24T21:24:42.005952+0800 DEBUG set connection to True
+2024-02-24T21:24:43.388866+0800 DEBUG set connection to False
+2024-02-24T21:24:44.676076+0800 DEBUG set connection to True
+2024-02-24T21:24:46.038808+0800 DEBUG set connection to False
+2024-02-24T21:24:47.409349+0800 DEBUG pressed menu button
+2024-02-24T21:24:49.935908+0800 DEBUG set connection to True
+2024-02-24T21:24:51.292102+0800 DEBUG set connection to False
+2024-02-24T21:24:52.646258+0800 DEBUG set connection to True
+2024-02-24T21:24:54.048341+0800 DEBUG set connection to False
+2024-02-24T21:24:55.413510+0800 DEBUG set connection to True
+2024-02-24T21:24:57.158862+0800 DEBUG set connection to False
+2024-02-24T21:24:58.501576+0800 DEBUG pressed menu button
+2024-02-24T21:25:01.900321+0800 DEBUG set connection to True
+2024-02-24T21:25:03.365622+0800 DEBUG set connection to False
+2024-02-24T21:25:04.681339+0800 DEBUG set connection to True
+2024-02-24T21:25:06.066197+0800 DEBUG set connection to False
+2024-02-24T21:25:07.443654+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:25:11.000976+0800 DEBUG set connection to True
+2024-02-24T21:25:12.410881+0800 DEBUG set connection to False
+2024-02-24T21:25:13.795569+0800 DEBUG set connection to True
+2024-02-24T21:25:15.189435+0800 DEBUG set connection to False
+2024-02-24T21:25:16.551466+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:25:19.841877+0800 DEBUG set connection to True
+2024-02-24T21:25:21.307064+0800 DEBUG set connection to False
+2024-02-24T21:25:22.653209+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:25:26.100840+0800 DEBUG set connection to True
+2024-02-24T21:25:27.514535+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:25:30.670323+0800 DEBUG set connection to False
+2024-02-24T21:25:31.977923+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:25:35.012454+0800 DEBUG set connection to True
+2024-02-24T21:25:36.377535+0800 DEBUG set connection to False
+2024-02-24T21:25:37.771951+0800 DEBUG set connection to True
+2024-02-24T21:25:39.114764+0800 DEBUG set connection to False
+2024-02-24T21:25:40.513996+0800 DEBUG set connection to True
+2024-02-24T21:25:41.836372+0800 DEBUG set connection to False
+2024-02-24T21:25:43.185928+0800 DEBUG pressed menu button
+2024-02-24T21:25:46.300840+0800 DEBUG set connection to True
+2024-02-24T21:25:47.790860+0800 DEBUG set connection to False
+2024-02-24T21:25:49.087742+0800 DEBUG set connection to True
+2024-02-24T21:25:50.570535+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:25:53.809883+0800 DEBUG set connection to False
+2024-02-24T21:25:55.336983+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:26:01.034709+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:26:06.222193+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:26:09.266874+0800 DEBUG set connection to True
+2024-02-24T21:26:10.693101+0800 DEBUG set connection to False
+2024-02-24T21:26:12.084069+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:26:15.315093+0800 DEBUG set connection to True
+2024-02-24T21:26:16.700225+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:26:19.788528+0800 DEBUG set connection to False
+2024-02-24T21:26:21.096960+0800 DEBUG set connection to True
+2024-02-24T21:26:22.574216+0800 DEBUG set connection to False
+2024-02-24T21:26:23.988241+0800 DEBUG set connection to True
+2024-02-24T21:26:25.422850+0800 DEBUG set connection to False
+2024-02-24T21:26:26.741949+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:26:29.938235+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:26:33.346328+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:26:36.553364+0800 DEBUG set connection to True
+2024-02-24T21:26:37.938670+0800 DEBUG set connection to False
+2024-02-24T21:26:39.295225+0800 DEBUG set connection to True
+2024-02-24T21:26:40.745034+0800 DEBUG pressed menu button
+2024-02-24T21:26:43.874693+0800 DEBUG pressed menu button
+2024-02-24T21:26:46.459583+0800 DEBUG set connection to False
+2024-02-24T21:26:47.826732+0800 DEBUG set connection to True
+2024-02-24T21:26:49.177432+0800 DEBUG set connection to False
+2024-02-24T21:26:50.836417+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:26:54.004622+0800 DEBUG set connection to True
+2024-02-24T21:26:55.510288+0800 DEBUG set connection to False
+2024-02-24T21:26:56.968095+0800 DEBUG set connection to True
+2024-02-24T21:26:58.736076+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:27:04.580651+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:27:10.157088+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:27:15.643499+0800 DEBUG pressed menu button
+2024-02-24T21:27:18.846642+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:27:24.547868+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:27:27.432739+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:27:32.834881+0800 DEBUG pressed menu button
+2024-02-24T21:27:32.971048+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:27:36.185022+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:27:39.337803+0800 DEBUG set connection to False
+2024-02-24T21:27:40.719639+0800 DEBUG set connection to True
+2024-02-24T21:27:42.142576+0800 DEBUG set connection to False
+2024-02-24T21:27:43.532152+0800 DEBUG set connection to True
+2024-02-24T21:27:44.948975+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:27:48.252325+0800 DEBUG set connection to False
+2024-02-24T21:27:49.668305+0800 DEBUG set connection to True
+2024-02-24T21:27:51.062487+0800 DEBUG pressed menu button
+2024-02-24T21:27:54.089662+0800 DEBUG set connection to False
+2024-02-24T21:27:55.696598+0800 DEBUG set connection to True
+2024-02-24T21:27:57.101485+0800 DEBUG set connection to False
+2024-02-24T21:27:58.467164+0800 DEBUG set connection to True
+2024-02-24T21:27:59.878216+0800 DEBUG set connection to False
+2024-02-24T21:28:01.182782+0800 DEBUG set connection to True
+2024-02-24T21:28:02.619173+0800 DEBUG set connection to False
+2024-02-24T21:28:03.990136+0800 DEBUG set connection to True
+2024-02-24T21:28:05.366977+0800 DEBUG set connection to False
+2024-02-24T21:28:06.698033+0800 DEBUG set connection to True
+2024-02-24T21:28:08.101925+0800 DEBUG set connection to False
+2024-02-24T21:28:09.500783+0800 DEBUG set connection to True
+2024-02-24T21:28:10.896067+0800 DEBUG set connection to False
+2024-02-24T21:28:12.201522+0800 DEBUG set connection to True
+2024-02-24T21:28:13.689446+0800 DEBUG set connection to False
+2024-02-24T21:28:15.011494+0800 DEBUG set connection to True
+2024-02-24T21:28:16.449078+0800 DEBUG set connection to False
+2024-02-24T21:28:17.786682+0800 DEBUG set connection to True
+2024-02-24T21:28:19.209276+0800 DEBUG set connection to False
+2024-02-24T21:28:20.541687+0800 DEBUG set connection to True
+2024-02-24T21:28:21.970379+0800 DEBUG set connection to False
+2024-02-24T21:28:23.397465+0800 DEBUG set connection to True
+2024-02-24T21:28:24.818586+0800 DEBUG set connection to False
+2024-02-24T21:28:26.150107+0800 DEBUG set connection to True
+2024-02-24T21:28:27.599968+0800 DEBUG set connection to False
+2024-02-24T21:28:29.003208+0800 DEBUG set connection to True
+2024-02-24T21:28:30.647448+0800 DEBUG set connection to False
+2024-02-24T21:28:32.010615+0800 DEBUG set connection to True
+2024-02-24T21:28:33.375573+0800 DEBUG set connection to False
+2024-02-24T21:28:34.742693+0800 DEBUG set connection to True
+2024-02-24T21:28:36.095069+0800 DEBUG set connection to False
+2024-02-24T21:28:37.588694+0800 DEBUG set connection to True
+2024-02-24T21:28:38.967473+0800 DEBUG set connection to False
+2024-02-24T21:28:40.295640+0800 DEBUG set connection to True
+2024-02-24T21:28:41.668560+0800 DEBUG set connection to False
+2024-02-24T21:28:42.989222+0800 DEBUG set connection to True
+2024-02-24T21:28:44.475606+0800 DEBUG set connection to False
+2024-02-24T21:28:45.854123+0800 DEBUG set connection to True
+2024-02-24T21:28:47.368180+0800 DEBUG set connection to False
+2024-02-24T21:28:48.735035+0800 DEBUG set connection to True
+2024-02-24T21:28:50.027927+0800 DEBUG set connection to False
+2024-02-24T21:28:51.398208+0800 DEBUG set connection to True
+2024-02-24T21:28:52.746913+0800 DEBUG set connection to False
+2024-02-24T21:28:54.101309+0800 DEBUG set connection to True
+2024-02-24T21:28:55.694707+0800 DEBUG set connection to False
+2024-02-24T21:28:57.010929+0800 DEBUG set connection to True
+2024-02-24T21:28:58.418520+0800 DEBUG set connection to False
+2024-02-24T21:28:59.838293+0800 DEBUG set connection to True
+2024-02-24T21:29:01.238415+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:29:04.355933+0800 DEBUG set connection to False
+2024-02-24T21:29:05.763986+0800 DEBUG set connection to True
+2024-02-24T21:29:07.428926+0800 DEBUG set connection to False
+2024-02-24T21:29:08.770168+0800 DEBUG set connection to True
+2024-02-24T21:29:10.203577+0800 DEBUG set connection to False
+2024-02-24T21:29:11.579443+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:29:14.700547+0800 DEBUG pressed menu button
+2024-02-24T21:29:17.752309+0800 DEBUG set connection to True
+2024-02-24T21:29:19.173986+0800 DEBUG set connection to False
+2024-02-24T21:29:20.585595+0800 DEBUG set connection to True
+2024-02-24T21:29:22.055011+0800 DEBUG set connection to False
+2024-02-24T21:29:23.501053+0800 DEBUG set connection to True
+2024-02-24T21:29:24.950421+0800 DEBUG set connection to False
+2024-02-24T21:29:26.273973+0800 DEBUG set connection to True
+2024-02-24T21:29:27.680582+0800 DEBUG set connection to False
+2024-02-24T21:29:29.056817+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T21:29:33.981503+0800 DEBUG set connection to True
+2024-02-24T21:29:35.344767+0800 DEBUG set connection to False
+2024-02-24T21:29:36.901312+0800 DEBUG set connection to True
+2024-02-24T21:29:38.321008+0800 DEBUG set connection to False
+2024-02-24T21:29:39.682303+0800 DEBUG set connection to True
+2024-02-24T21:29:41.174029+0800 DEBUG set connection to False
+2024-02-24T21:29:42.577752+0800 DEBUG set connection to True
+2024-02-24T21:29:44.049529+0800 DEBUG set connection to False
+2024-02-24T21:29:45.469721+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:29:48.575943+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:29:52.048971+0800 DEBUG set connection to True
+2024-02-24T21:29:53.548356+0800 DEBUG set connection to False
+2024-02-24T21:29:54.867357+0800 DEBUG set connection to True
+2024-02-24T21:29:56.379036+0800 DEBUG set connection to False
+2024-02-24T21:29:57.712789+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:30:01.454579+0800 DEBUG pressed menu button
+2024-02-24T21:30:04.631162+0800 DEBUG set connection to True
+2024-02-24T21:30:06.103426+0800 DEBUG set connection to False
+2024-02-24T21:30:07.392281+0800 DEBUG set connection to True
+2024-02-24T21:30:08.808249+0800 DEBUG set connection to False
+2024-02-24T21:30:10.092815+0800 DEBUG set connection to True
+2024-02-24T21:30:11.625815+0800 DEBUG set connection to False
+2024-02-24T21:30:13.057747+0800 DEBUG set connection to True
+2024-02-24T21:30:14.430169+0800 DEBUG set connection to False
+2024-02-24T21:30:15.763060+0800 DEBUG set connection to True
+2024-02-24T21:30:17.219019+0800 DEBUG set connection to False
+2024-02-24T21:30:18.597812+0800 DEBUG set connection to True
+2024-02-24T21:30:20.119650+0800 DEBUG set connection to False
+2024-02-24T21:30:21.431174+0800 DEBUG set connection to True
+2024-02-24T21:30:22.750509+0800 DEBUG set connection to False
+2024-02-24T21:30:24.117582+0800 DEBUG set connection to True
+2024-02-24T21:30:25.570570+0800 DEBUG set connection to False
+2024-02-24T21:30:26.982534+0800 DEBUG set connection to True
+2024-02-24T21:30:28.405045+0800 DEBUG set connection to False
+2024-02-24T21:30:29.678448+0800 DEBUG set connection to True
+2024-02-24T21:30:31.039015+0800 DEBUG set connection to False
+2024-02-24T21:30:32.676041+0800 DEBUG set connection to True
+2024-02-24T21:30:34.106753+0800 DEBUG set connection to False
+2024-02-24T21:30:35.396925+0800 DEBUG set connection to True
+2024-02-24T21:30:36.827394+0800 DEBUG set connection to False
+2024-02-24T21:30:38.219765+0800 DEBUG set connection to True
+2024-02-24T21:30:39.622699+0800 DEBUG set connection to False
+2024-02-24T21:30:40.996350+0800 DEBUG set connection to True
+2024-02-24T21:30:42.481794+0800 DEBUG set connection to False
+2024-02-24T21:30:43.776863+0800 DEBUG set connection to True
+2024-02-24T21:30:45.122387+0800 DEBUG set connection to False
+2024-02-24T21:30:46.562729+0800 DEBUG set connection to True
+2024-02-24T21:30:47.978906+0800 DEBUG set connection to False
+2024-02-24T21:30:49.355389+0800 DEBUG set connection to True
+2024-02-24T21:30:50.820637+0800 DEBUG set connection to False
+2024-02-24T21:30:52.170812+0800 DEBUG set connection to True
+2024-02-24T21:30:53.641568+0800 DEBUG set connection to False
+2024-02-24T21:30:55.109172+0800 DEBUG set connection to True
+2024-02-24T21:30:56.558285+0800 DEBUG set connection to False
+2024-02-24T21:30:57.830105+0800 DEBUG set connection to True
+2024-02-24T21:30:59.246941+0800 DEBUG set connection to False
+2024-02-24T21:31:00.786508+0800 DEBUG set connection to True
+2024-02-24T21:31:02.263360+0800 DEBUG set connection to False
+2024-02-24T21:31:03.637284+0800 DEBUG set connection to True
+2024-02-24T21:31:04.980987+0800 DEBUG set connection to False
+2024-02-24T21:31:06.283833+0800 DEBUG set connection to True
+2024-02-24T21:31:07.888579+0800 DEBUG set connection to False
+2024-02-24T21:31:09.219841+0800 DEBUG set connection to True
+2024-02-24T21:31:10.678947+0800 DEBUG set connection to False
+2024-02-24T21:31:12.020597+0800 DEBUG set connection to True
+2024-02-24T21:31:13.470468+0800 DEBUG set connection to False
+2024-02-24T21:31:14.889253+0800 DEBUG set connection to True
+2024-02-24T21:31:16.295706+0800 DEBUG set connection to False
+2024-02-24T21:31:17.691532+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:31:20.969395+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:31:24.289489+0800 DEBUG set connection to True
+2024-02-24T21:31:25.734985+0800 DEBUG set connection to False
+2024-02-24T21:31:27.135654+0800 DEBUG set connection to True
+2024-02-24T21:31:28.560720+0800 DEBUG set connection to False
+2024-02-24T21:31:29.904350+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:31:33.143322+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:31:36.314651+0800 DEBUG set connection to True
+2024-02-24T21:31:37.671327+0800 DEBUG set connection to False
+2024-02-24T21:31:38.953615+0800 DEBUG set connection to True
+2024-02-24T21:31:40.302155+0800 DEBUG set connection to False
+2024-02-24T21:31:41.629118+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:31:44.823681+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:31:48.033869+0800 DEBUG set connection to True
+2024-02-24T21:31:49.388282+0800 DEBUG set connection to False
+2024-02-24T21:31:50.765106+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:31:53.799267+0800 DEBUG set connection to True
+2024-02-24T21:31:55.467038+0800 DEBUG set connection to False
+2024-02-24T21:31:56.820876+0800 DEBUG set connection to True
+2024-02-24T21:31:58.259016+0800 DEBUG pressed menu button
+2024-02-24T21:32:01.797408+0800 DEBUG set connection to False
+2024-02-24T21:32:03.142458+0800 DEBUG set connection to True
+2024-02-24T21:32:04.539859+0800 DEBUG set connection to False
+2024-02-24T21:32:05.975525+0800 DEBUG set connection to True
+2024-02-24T21:32:07.407332+0800 DEBUG set connection to False
+2024-02-24T21:32:08.754571+0800 DEBUG set connection to True
+2024-02-24T21:32:10.178971+0800 DEBUG set connection to False
+2024-02-24T21:32:11.525347+0800 DEBUG set connection to True
+2024-02-24T21:32:12.929022+0800 DEBUG set connection to False
+2024-02-24T21:32:14.393424+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:32:17.478942+0800 DEBUG set connection to True
+2024-02-24T21:32:18.917879+0800 DEBUG set connection to False
+2024-02-24T21:32:20.360111+0800 DEBUG set connection to True
+2024-02-24T21:32:21.841396+0800 DEBUG set connection to False
+2024-02-24T21:32:23.225417+0800 DEBUG set connection to True
+2024-02-24T21:32:24.638794+0800 DEBUG set connection to False
+2024-02-24T21:32:26.066672+0800 DEBUG set connection to True
+2024-02-24T21:32:27.569968+0800 DEBUG set connection to False
+2024-02-24T21:32:28.921580+0800 DEBUG set connection to True
+2024-02-24T21:32:30.305166+0800 DEBUG set connection to False
+2024-02-24T21:32:31.706606+0800 DEBUG set connection to True
+2024-02-24T21:32:33.164573+0800 DEBUG set connection to False
+2024-02-24T21:32:34.701399+0800 DEBUG set connection to True
+2024-02-24T21:32:36.100728+0800 DEBUG set connection to False
+2024-02-24T21:32:37.408221+0800 DEBUG set connection to True
+2024-02-24T21:32:38.809098+0800 DEBUG set connection to False
+2024-02-24T21:32:40.127498+0800 DEBUG set connection to True
+2024-02-24T21:32:41.579640+0800 DEBUG set connection to False
+2024-02-24T21:32:43.036903+0800 DEBUG set connection to True
+2024-02-24T21:32:44.507594+0800 DEBUG set connection to False
+2024-02-24T21:32:45.862264+0800 DEBUG set connection to True
+2024-02-24T21:32:47.291510+0800 DEBUG set connection to False
+2024-02-24T21:32:48.669934+0800 DEBUG pressed menu button
+2024-02-24T21:32:51.790671+0800 DEBUG set connection to True
+2024-02-24T21:32:53.218889+0800 DEBUG set connection to False
+2024-02-24T21:32:54.531851+0800 DEBUG set connection to True
+2024-02-24T21:32:55.950922+0800 DEBUG set connection to False
+2024-02-24T21:32:57.372066+0800 DEBUG set connection to True
+2024-02-24T21:32:58.801028+0800 DEBUG set connection to False
+2024-02-24T21:33:00.778126+0800 DEBUG set connection to True
+2024-02-24T21:33:02.262091+0800 DEBUG set connection to False
+2024-02-24T21:33:03.702776+0800 DEBUG set connection to True
+2024-02-24T21:33:05.212415+0800 DEBUG set connection to False
+2024-02-24T21:33:06.601672+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:33:09.725355+0800 DEBUG set connection to True
+2024-02-24T21:33:11.184850+0800 DEBUG set connection to False
+2024-02-24T21:33:12.522137+0800 DEBUG set connection to True
+2024-02-24T21:33:14.149407+0800 DEBUG set connection to False
+2024-02-24T21:33:15.506399+0800 DEBUG set connection to True
+2024-02-24T21:33:16.880642+0800 DEBUG set connection to False
+2024-02-24T21:33:18.232763+0800 DEBUG set connection to True
+2024-02-24T21:33:19.635720+0800 DEBUG set connection to False
+2024-02-24T21:33:21.118203+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:33:24.218100+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:33:27.410374+0800 DEBUG set connection to True
+2024-02-24T21:33:28.879839+0800 DEBUG set connection to False
+2024-02-24T21:33:30.196942+0800 DEBUG set connection to True
+2024-02-24T21:33:31.675711+0800 DEBUG pressed menu button
+2024-02-24T21:33:34.682942+0800 DEBUG set connection to False
+2024-02-24T21:33:36.106608+0800 DEBUG set connection to True
+2024-02-24T21:33:37.495205+0800 DEBUG set connection to False
+2024-02-24T21:33:38.890785+0800 DEBUG set connection to True
+2024-02-24T21:33:40.364474+0800 DEBUG set connection to False
+2024-02-24T21:33:41.742471+0800 DEBUG set connection to True
+2024-02-24T21:33:43.150395+0800 DEBUG set connection to False
+2024-02-24T21:33:44.549101+0800 DEBUG set connection to True
+2024-02-24T21:33:46.058802+0800 DEBUG set connection to False
+2024-02-24T21:33:47.548224+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:33:50.616168+0800 DEBUG set connection to True
+2024-02-24T21:33:52.014567+0800 DEBUG set connection to False
+2024-02-24T21:33:53.369680+0800 DEBUG set connection to True
+2024-02-24T21:33:55.365756+0800 DEBUG set connection to False
+2024-02-24T21:33:56.768002+0800 DEBUG set connection to True
+2024-02-24T21:33:58.224498+0800 DEBUG set connection to False
+2024-02-24T21:33:59.605916+0800 DEBUG set connection to True
+2024-02-24T21:34:01.160372+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:34:04.273533+0800 DEBUG set connection to False
+2024-02-24T21:34:05.686906+0800 DEBUG set connection to True
+2024-02-24T21:34:07.104596+0800 DEBUG set connection to False
+2024-02-24T21:34:08.467220+0800 DEBUG set connection to True
+2024-02-24T21:34:09.875659+0800 DEBUG set connection to False
+2024-02-24T21:34:11.240936+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:34:14.370721+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:34:17.408077+0800 DEBUG set connection to True
+2024-02-24T21:34:18.920653+0800 DEBUG set connection to False
+2024-02-24T21:34:20.310673+0800 DEBUG set connection to True
+2024-02-24T21:34:21.799087+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:34:24.827870+0800 DEBUG set connection to False
+2024-02-24T21:34:26.112042+0800 DEBUG set connection to True
+2024-02-24T21:34:27.525669+0800 DEBUG set connection to False
+2024-02-24T21:34:29.229236+0800 DEBUG set connection to True
+2024-02-24T21:34:30.633374+0800 DEBUG set connection to False
+2024-02-24T21:34:31.967764+0800 DEBUG set connection to True
+2024-02-24T21:34:33.333152+0800 DEBUG set connection to False
+2024-02-24T21:34:34.728816+0800 DEBUG set connection to True
+2024-02-24T21:34:36.420788+0800 DEBUG set connection to False
+2024-02-24T21:34:37.731825+0800 DEBUG set connection to True
+2024-02-24T21:34:39.158391+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:34:42.189541+0800 DEBUG set connection to False
+2024-02-24T21:34:43.569843+0800 DEBUG set connection to True
+2024-02-24T21:34:45.006613+0800 DEBUG set connection to False
+2024-02-24T21:34:46.361839+0800 DEBUG set connection to True
+2024-02-24T21:34:47.817643+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:34:50.956230+0800 DEBUG set connection to False
+2024-02-24T21:34:52.358898+0800 DEBUG set connection to True
+2024-02-24T21:34:53.778242+0800 DEBUG set connection to False
+2024-02-24T21:34:55.171412+0800 DEBUG set connection to True
+2024-02-24T21:34:56.670245+0800 DEBUG set connection to False
+2024-02-24T21:34:58.179230+0800 DEBUG set connection to True
+2024-02-24T21:34:59.619534+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:35:03.117176+0800 DEBUG set connection to False
+2024-02-24T21:35:04.604589+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:35:07.547052+0800 DEBUG set connection to True
+2024-02-24T21:35:08.993045+0800 DEBUG set connection to False
+2024-02-24T21:35:10.428747+0800 DEBUG set connection to True
+2024-02-24T21:35:11.856977+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:35:14.989136+0800 DEBUG set connection to False
+2024-02-24T21:35:16.347774+0800 DEBUG set connection to True
+2024-02-24T21:35:17.714654+0800 DEBUG set connection to False
+2024-02-24T21:35:19.235365+0800 DEBUG set connection to True
+2024-02-24T21:35:20.853897+0800 DEBUG set connection to False
+2024-02-24T21:35:22.221936+0800 DEBUG set connection to True
+2024-02-24T21:35:23.711723+0800 DEBUG set connection to False
+2024-02-24T21:35:25.018862+0800 DEBUG set connection to True
+2024-02-24T21:35:26.427695+0800 DEBUG set connection to False
+2024-02-24T21:35:27.834127+0800 DEBUG set connection to True
+2024-02-24T21:35:29.262801+0800 DEBUG set connection to False
+2024-02-24T21:35:30.706469+0800 DEBUG set connection to True
+2024-02-24T21:35:32.114946+0800 DEBUG set connection to False
+2024-02-24T21:35:33.471923+0800 DEBUG set connection to True
+2024-02-24T21:35:34.938745+0800 DEBUG set connection to False
+2024-02-24T21:35:36.254524+0800 DEBUG set connection to True
+2024-02-24T21:35:37.702008+0800 DEBUG set connection to False
+2024-02-24T21:35:39.083075+0800 DEBUG set connection to True
+2024-02-24T21:35:40.541360+0800 DEBUG set connection to False
+2024-02-24T21:35:41.972992+0800 DEBUG set connection to True
+2024-02-24T21:35:43.402921+0800 DEBUG set connection to False
+2024-02-24T21:35:44.852561+0800 DEBUG set connection to True
+2024-02-24T21:35:46.276894+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:35:49.444311+0800 DEBUG set connection to False
+2024-02-24T21:35:50.887449+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:35:53.987700+0800 DEBUG set connection to True
+2024-02-24T21:35:55.325911+0800 DEBUG set connection to False
+2024-02-24T21:35:56.645517+0800 DEBUG set connection to True
+2024-02-24T21:35:58.156612+0800 DEBUG set connection to False
+2024-02-24T21:35:59.779908+0800 DEBUG set connection to True
+2024-02-24T21:36:01.196538+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:36:04.312055+0800 DEBUG set connection to False
+2024-02-24T21:36:05.662905+0800 DEBUG set connection to True
+2024-02-24T21:36:07.058054+0800 DEBUG set connection to False
+2024-02-24T21:36:08.391101+0800 DEBUG set connection to True
+2024-02-24T21:36:09.789813+0800 DEBUG set connection to False
+2024-02-24T21:36:11.229908+0800 DEBUG set connection to True
+2024-02-24T21:36:12.564471+0800 DEBUG set connection to False
+2024-02-24T21:36:13.958152+0800 DEBUG set connection to True
+2024-02-24T21:36:15.462799+0800 DEBUG set connection to False
+2024-02-24T21:36:16.801948+0800 DEBUG set connection to True
+2024-02-24T21:36:18.310514+0800 DEBUG set connection to False
+2024-02-24T21:36:19.657837+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T21:36:24.763956+0800 DEBUG set connection to True
+2024-02-24T21:36:26.115430+0800 DEBUG set connection to False
+2024-02-24T21:36:27.468948+0800 DEBUG set connection to True
+2024-02-24T21:36:28.954714+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:36:32.146201+0800 DEBUG set connection to False
+2024-02-24T21:36:33.497169+0800 DEBUG set connection to True
+2024-02-24T21:36:34.800349+0800 DEBUG set connection to False
+2024-02-24T21:36:36.196079+0800 DEBUG set connection to True
+2024-02-24T21:36:37.583559+0800 DEBUG set connection to False
+2024-02-24T21:36:38.947404+0800 DEBUG set connection to True
+2024-02-24T21:36:40.373515+0800 DEBUG set connection to False
+2024-02-24T21:36:41.777468+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:36:45.056501+0800 DEBUG set connection to True
+2024-02-24T21:36:46.500678+0800 DEBUG set connection to False
+2024-02-24T21:36:47.872162+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:36:51.225363+0800 DEBUG set connection to True
+2024-02-24T21:36:52.707732+0800 DEBUG set connection to False
+2024-02-24T21:36:54.214331+0800 DEBUG set connection to True
+2024-02-24T21:36:55.649513+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:36:59.369073+0800 DEBUG set connection to False
+2024-02-24T21:37:00.809567+0800 DEBUG set connection to True
+2024-02-24T21:37:02.281216+0800 DEBUG set connection to False
+2024-02-24T21:37:03.768756+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:37:07.081876+0800 DEBUG set connection to True
+2024-02-24T21:37:08.452172+0800 DEBUG set connection to False
+2024-02-24T21:37:09.890227+0800 DEBUG set connection to True
+2024-02-24T21:37:11.426585+0800 DEBUG set connection to False
+2024-02-24T21:37:12.991180+0800 DEBUG set connection to True
+2024-02-24T21:37:14.447037+0800 DEBUG set connection to False
+2024-02-24T21:37:15.892451+0800 DEBUG set connection to True
+2024-02-24T21:37:17.348390+0800 DEBUG set connection to False
+2024-02-24T21:37:18.776675+0800 DEBUG set connection to True
+2024-02-24T21:37:20.290072+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:37:23.707174+0800 DEBUG set connection to False
+2024-02-24T21:37:25.124738+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:37:28.304266+0800 DEBUG set connection to True
+2024-02-24T21:37:29.740313+0800 DEBUG set connection to False
+2024-02-24T21:37:31.439332+0800 DEBUG set connection to True
+2024-02-24T21:37:33.033302+0800 DEBUG set connection to False
+2024-02-24T21:37:34.347394+0800 DEBUG set connection to True
+2024-02-24T21:37:35.716881+0800 DEBUG set connection to False
+2024-02-24T21:37:37.173407+0800 DEBUG set connection to True
+2024-02-24T21:37:38.849020+0800 DEBUG set connection to False
+2024-02-24T21:37:40.977401+0800 DEBUG set connection to True
+2024-02-24T21:37:43.332125+0800 DEBUG set connection to False
+2024-02-24T21:37:45.430861+0800 DEBUG set connection to True
+2024-02-24T21:37:47.795957+0800 DEBUG set connection to False
+2024-02-24T21:37:50.215464+0800 DEBUG set connection to True
+2024-02-24T21:37:52.108817+0800 DEBUG set connection to False
+2024-02-24T21:37:54.409249+0800 DEBUG set connection to True
+2024-02-24T21:37:56.646861+0800 DEBUG set connection to False
+2024-02-24T21:37:58.833673+0800 DEBUG set connection to True
+2024-02-24T21:38:00.985885+0800 DEBUG set connection to False
+2024-02-24T21:38:03.397037+0800 DEBUG set connection to True
+2024-02-24T21:38:05.729245+0800 DEBUG set connection to False
+2024-02-24T21:38:07.690338+0800 DEBUG set connection to True
+2024-02-24T21:38:09.990087+0800 DEBUG set connection to False
+2024-02-24T21:38:13.225162+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:38:17.446329+0800 DEBUG set connection to True
+2024-02-24T21:38:19.610068+0800 DEBUG set connection to False
+2024-02-24T21:38:22.090295+0800 DEBUG set connection to True
+2024-02-24T21:38:24.803583+0800 DEBUG set connection to False
+2024-02-24T21:38:28.257351+0800 DEBUG set connection to True
+2024-02-24T21:38:30.542626+0800 DEBUG set connection to False
+2024-02-24T21:38:33.310802+0800 DEBUG set connection to True
+2024-02-24T21:38:35.621525+0800 DEBUG set connection to False
+2024-02-24T21:38:37.921481+0800 DEBUG set connection to True
+2024-02-24T21:38:40.107461+0800 DEBUG set connection to False
+2024-02-24T21:38:42.384979+0800 DEBUG set connection to True
+2024-02-24T21:38:44.487943+0800 DEBUG set connection to False
+2024-02-24T21:38:46.595712+0800 DEBUG set connection to True
+2024-02-24T21:38:49.460061+0800 DEBUG set connection to False
+2024-02-24T21:38:52.011003+0800 DEBUG set connection to True
+2024-02-24T21:38:54.475708+0800 DEBUG set connection to False
+2024-02-24T21:38:56.952373+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:39:02.972815+0800 DEBUG set connection to True
+2024-02-24T21:39:04.803721+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:39:09.560542+0800 DEBUG set connection to False
+2024-02-24T21:39:13.032802+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:39:18.874605+0800 DEBUG set connection to True
+2024-02-24T21:39:21.037712+0800 DEBUG set connection to False
+2024-02-24T21:39:23.593696+0800 DEBUG set connection to True
+2024-02-24T21:39:25.833779+0800 DEBUG set connection to False
+2024-02-24T21:39:28.079081+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:39:33.246868+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:39:38.224225+0800 DEBUG set connection to True
+2024-02-24T21:39:40.268193+0800 DEBUG set connection to False
+2024-02-24T21:39:42.924134+0800 DEBUG set connection to True
+2024-02-24T21:39:45.156161+0800 DEBUG set connection to False
+2024-02-24T21:39:47.027758+0800 DEBUG set connection to True
+2024-02-24T21:39:49.565553+0800 DEBUG set connection to False
+2024-02-24T21:39:52.098752+0800 DEBUG set connection to True
+2024-02-24T21:39:54.567999+0800 DEBUG set connection to False
+2024-02-24T21:39:57.220598+0800 DEBUG set connection to True
+2024-02-24T21:39:59.537793+0800 DEBUG set connection to False
+2024-02-24T21:40:01.941318+0800 DEBUG set connection to True
+2024-02-24T21:40:04.192063+0800 DEBUG set connection to False
+2024-02-24T21:40:06.483876+0800 DEBUG set connection to True
+2024-02-24T21:40:08.599722+0800 DEBUG set connection to False
+2024-02-24T21:40:10.846697+0800 DEBUG set connection to True
+2024-02-24T21:40:13.173770+0800 DEBUG set connection to False
+2024-02-24T21:40:15.221039+0800 DEBUG set connection to True
+2024-02-24T21:40:17.369943+0800 DEBUG set connection to False
+2024-02-24T21:40:19.648840+0800 DEBUG set connection to True
+2024-02-24T21:40:22.565684+0800 DEBUG set connection to False
+2024-02-24T21:40:25.093769+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:40:30.022737+0800 DEBUG set connection to True
+2024-02-24T21:40:32.195700+0800 DEBUG set connection to False
+2024-02-24T21:40:34.744411+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:40:40.780997+0800 DEBUG set connection to True
+2024-02-24T21:40:43.237744+0800 DEBUG set connection to False
+2024-02-24T21:40:45.748448+0800 DEBUG set connection to True
+2024-02-24T21:40:48.176587+0800 DEBUG pressed menu button
+2024-02-24T21:40:52.807526+0800 DEBUG set connection to False
+2024-02-24T21:40:55.072961+0800 DEBUG set connection to True
+2024-02-24T21:40:57.490946+0800 DEBUG set connection to False
+2024-02-24T21:40:59.999436+0800 DEBUG set connection to True
+2024-02-24T21:41:03.092176+0800 DEBUG set connection to False
+2024-02-24T21:41:05.509569+0800 DEBUG set connection to True
+2024-02-24T21:41:07.756376+0800 DEBUG set connection to False
+2024-02-24T21:41:09.628226+0800 DEBUG set connection to True
+2024-02-24T21:41:11.989293+0800 DEBUG set connection to False
+2024-02-24T21:41:14.348429+0800 DEBUG set connection to True
+2024-02-24T21:41:16.879669+0800 DEBUG set connection to False
+2024-02-24T21:41:19.214270+0800 DEBUG set connection to True
+2024-02-24T21:41:22.249887+0800 DEBUG set connection to False
+2024-02-24T21:41:24.706865+0800 DEBUG set connection to True
+2024-02-24T21:41:27.518411+0800 DEBUG set connection to False
+2024-02-24T21:41:29.563342+0800 DEBUG set connection to True
+2024-02-24T21:41:32.326140+0800 DEBUG set connection to False
+2024-02-24T21:41:34.518443+0800 DEBUG set connection to True
+2024-02-24T21:41:37.329785+0800 DEBUG set connection to False
+2024-02-24T21:41:39.452855+0800 DEBUG set connection to True
+2024-02-24T21:41:42.048427+0800 DEBUG set connection to False
+2024-02-24T21:41:45.013614+0800 DEBUG set connection to True
+2024-02-24T21:41:47.281625+0800 DEBUG set connection to False
+2024-02-24T21:41:49.958671+0800 DEBUG set connection to True
+2024-02-24T21:41:53.254296+0800 DEBUG set connection to False
+2024-02-24T21:41:55.890300+0800 DEBUG pressed menu button
+2024-02-24T21:41:59.050380+0800 DEBUG set connection to True
+2024-02-24T21:42:01.217885+0800 DEBUG set connection to False
+2024-02-24T21:42:03.978604+0800 DEBUG set connection to True
+2024-02-24T21:42:06.163815+0800 DEBUG pressed menu button
+2024-02-24T21:42:11.879724+0800 DEBUG set connection to False
+2024-02-24T21:42:14.203896+0800 DEBUG set connection to True
+2024-02-24T21:42:16.805860+0800 DEBUG set connection to False
+2024-02-24T21:42:19.386212+0800 DEBUG set connection to True
+2024-02-24T21:42:21.868140+0800 DEBUG set connection to False
+2024-02-24T21:42:24.117244+0800 DEBUG set connection to True
+2024-02-24T21:42:25.981865+0800 DEBUG set connection to False
+2024-02-24T21:42:28.417498+0800 DEBUG set connection to True
+2024-02-24T21:42:30.863278+0800 DEBUG set connection to False
+2024-02-24T21:42:33.312360+0800 DEBUG set connection to True
+2024-02-24T21:42:35.908107+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:42:40.818698+0800 DEBUG set connection to False
+2024-02-24T21:42:43.025839+0800 DEBUG set connection to True
+2024-02-24T21:42:45.365466+0800 DEBUG set connection to False
+2024-02-24T21:42:48.081324+0800 DEBUG set connection to True
+2024-02-24T21:42:50.331208+0800 DEBUG set connection to False
+2024-02-24T21:42:52.337340+0800 DEBUG set connection to True
+2024-02-24T21:42:54.549982+0800 DEBUG set connection to False
+2024-02-24T21:42:56.889729+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:43:03.049701+0800 DEBUG set connection to True
+2024-02-24T21:43:05.410494+0800 DEBUG set connection to False
+2024-02-24T21:43:08.445716+0800 DEBUG set connection to True
+2024-02-24T21:43:10.357837+0800 DEBUG set connection to False
+2024-02-24T21:43:12.337111+0800 DEBUG set connection to True
+2024-02-24T21:43:14.330672+0800 DEBUG set connection to False
+2024-02-24T21:43:16.710351+0800 DEBUG set connection to True
+2024-02-24T21:43:18.927872+0800 DEBUG set connection to False
+2024-02-24T21:43:21.409209+0800 DEBUG set connection to True
+2024-02-24T21:43:23.333215+0800 DEBUG set connection to False
+2024-02-24T21:43:25.637408+0800 DEBUG set connection to True
+2024-02-24T21:43:28.036357+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:43:33.416170+0800 DEBUG set connection to False
+2024-02-24T21:43:36.115889+0800 DEBUG set connection to True
+2024-02-24T21:43:39.354404+0800 DEBUG set connection to False
+2024-02-24T21:43:42.011405+0800 DEBUG set connection to True
+2024-02-24T21:43:44.327680+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-24T21:43:48.379885+0800 DEBUG set connection to False
+2024-02-24T21:43:50.595616+0800 DEBUG set connection to True
+2024-02-24T21:43:53.024174+0800 DEBUG set connection to False
+2024-02-24T21:43:55.420718+0800 DEBUG set connection to True
+2024-02-24T21:43:57.468857+0800 DEBUG set connection to False
+2024-02-24T21:44:00.873764+0800 DEBUG set connection to True
+2024-02-24T21:44:03.280530+0800 DEBUG set connection to False
+2024-02-24T21:44:05.540965+0800 DEBUG set connection to True
+2024-02-24T21:44:08.242023+0800 DEBUG set connection to False
+2024-02-24T21:44:10.235723+0800 DEBUG set connection to True
+2024-02-24T21:44:12.300318+0800 DEBUG set connection to False
+2024-02-24T21:44:14.621636+0800 DEBUG set connection to True
+2024-02-24T21:44:16.804630+0800 DEBUG set connection to False
+2024-02-24T21:44:19.368985+0800 DEBUG set connection to True
+2024-02-24T21:44:21.895227+0800 DEBUG set connection to False
+2024-02-24T21:44:23.951084+0800 DEBUG set connection to True
+2024-02-24T21:44:26.155269+0800 DEBUG set connection to False
+2024-02-24T21:44:28.507387+0800 DEBUG pressed menu button
+2024-02-24T21:44:32.749018+0800 DEBUG set connection to True
+2024-02-24T21:44:34.993949+0800 DEBUG set connection to False
+2024-02-24T21:44:37.121645+0800 DEBUG set connection to True
+2024-02-24T21:44:39.640200+0800 DEBUG set connection to False
+2024-02-24T21:44:41.689505+0800 DEBUG set connection to True
+2024-02-24T21:44:43.515821+0800 DEBUG set connection to False
+2024-02-24T21:44:45.523609+0800 DEBUG set connection to True
+2024-02-24T21:44:48.233141+0800 DEBUG set connection to False
+2024-02-24T21:44:51.453876+0800 DEBUG set connection to True
+2024-02-24T21:44:53.634306+0800 DEBUG set connection to False
+2024-02-24T21:44:56.314798+0800 DEBUG set connection to True
+2024-02-24T21:44:58.898312+0800 DEBUG set connection to False
+2024-02-24T21:45:01.094965+0800 DEBUG set connection to True
+2024-02-24T21:45:03.294355+0800 DEBUG set connection to False
+2024-02-24T21:45:06.126601+0800 DEBUG set connection to True
+2024-02-24T21:45:08.313206+0800 DEBUG set connection to False
+2024-02-24T21:45:10.729262+0800 DEBUG set connection to True
+2024-02-24T21:45:12.807826+0800 DEBUG set connection to False
+2024-02-24T21:45:15.105079+0800 DEBUG set connection to True
+2024-02-24T21:45:17.233807+0800 DEBUG set connection to False
+2024-02-24T21:45:19.669447+0800 DEBUG set connection to True
+2024-02-24T21:45:21.909370+0800 DEBUG set connection to False
+2024-02-24T21:45:24.210036+0800 DEBUG set connection to True
+2024-02-24T21:45:26.554905+0800 DEBUG set connection to False
+2024-02-24T21:45:29.359623+0800 DEBUG set connection to True
+2024-02-24T21:45:31.386627+0800 DEBUG set connection to False
+2024-02-24T21:45:33.929585+0800 DEBUG set connection to True
+2024-02-24T21:45:36.097830+0800 DEBUG set connection to False
+2024-02-24T21:45:38.845105+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-24T21:45:43.512163+0800 DEBUG set connection to True
+2024-02-24T21:45:45.907418+0800 DEBUG set connection to False
+2024-02-24T21:45:48.545384+0800 DEBUG set connection to True
+2024-02-24T21:45:50.660852+0800 DEBUG set connection to False
+2024-02-24T21:45:53.306005+0800 DEBUG set connection to True
+2024-02-24T21:45:56.104788+0800 DEBUG set connection to False
+2024-02-24T21:45:58.089934+0800 DEBUG set connection to True
+2024-02-24T21:46:00.903008+0800 DEBUG set connection to False
+2024-02-24T21:46:03.414571+0800 DEBUG set connection to True
+2024-02-24T21:46:05.948300+0800 DEBUG set connection to False
+2024-02-24T21:46:08.496260+0800 DEBUG set connection to True
+2024-02-24T21:46:10.687588+0800 DEBUG set connection to False
+2024-02-24T21:46:13.051173+0800 DEBUG set connection to True
+2024-02-24T21:46:15.631678+0800 DEBUG set connection to False
+2024-02-24T21:46:17.734956+0800 DEBUG set connection to True
+2024-02-24T21:46:20.541600+0800 DEBUG set connection to False
+2024-02-24T21:46:22.324359+0800 DEBUG set connection to True
+2024-02-24T21:46:24.748414+0800 DEBUG set connection to False
+2024-02-24T21:46:27.165960+0800 DEBUG set connection to True
+2024-02-24T21:46:29.518592+0800 DEBUG set connection to False
+2024-02-24T21:46:32.070480+0800 DEBUG set connection to True
+2024-02-24T21:46:34.413327+0800 DEBUG set connection to False
+2024-02-24T21:46:36.891654+0800 DEBUG set connection to True
+2024-02-24T21:46:39.156582+0800 DEBUG <--- EPISODE RESET --->
+2024-02-24T21:46:52.974582+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-24T21:46:53.660101+0800 DEBUG set connection to False
+2024-02-24T21:46:55.628647+0800 DEBUG set connection to True
+2024-02-24T21:46:58.453274+0800 DEBUG set connection to False
+2024-02-24T21:47:00.772977+0800 DEBUG set connection to True
+2024-02-24T21:47:03.059127+0800 DEBUG set connection to False
+2024-02-24T21:47:05.268426+0800 DEBUG set connection to True
+2024-02-24T21:47:08.318014+0800 INFO Timer expired at 1520
+2024-02-24T21:47:08.690853+0800 DEBUG <--- EPISODE RESET --->
+2024-02-25T15:15:13.587650+0800 DEBUG D:\rltest\ARES-pytorch-ares\test\test_resources\Etar.apk START
+2024-02-25T15:15:24.133664+0800 DEBUG <--- EPISODE RESET --->
+2024-02-25T15:15:27.711616+0800 DEBUG set connection to False
+2024-02-25T15:15:29.084825+0800 DEBUG action: More options Activity: com.android.calendar.AllInOneActivity
+2024-02-25T15:15:30.370612+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.widget.LinearLayout.Refresh Activity: com.android.calendar.AllInOneActivity
+2024-02-25T15:15:32.033684+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-25T15:15:32.666435+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-02-25T15:15:35.591639+0800 DEBUG set orientation, original was PORTRAIT
+2024-02-25T15:15:37.943241+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-25T15:15:40.187204+0800 DEBUG action: ws.xsoh.etar:id/start_time Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:41.265090+0800 DEBUG set connection to True
+2024-02-25T15:15:42.752985+0800 DEBUG action: android:id/minutes Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:43.668437+0800 DEBUG action: android:id/hours Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:44.852939+0800 DEBUG action: android:id/hours Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:45.674172+0800 DEBUG action: android:id/minutes Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:46.533175+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:48.038695+0800 DEBUG pressed menu button
+2024-02-25T15:15:48.191459+0800 DEBUG action: ws.xsoh.etar:id/end_time Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:49.331856+0800 DEBUG action: android:id/hours Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:50.160967+0800 DEBUG action: android:id/button2 Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:51.641845+0800 DEBUG action: ws.xsoh.etar:id/is_all_day_label Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:53.173258+0800 DEBUG action: ws.xsoh.etar:id/action_done Activity: com.android.calendar.event.EditEventActivity
+2024-02-25T15:15:54.701353+0800 DEBUG action: ws.xsoh.etar:id/floating_action_button Activity: com.android.calendar.AllInOneActivity
+2024-02-25T15:15:56.880795+0800 DEBUG set orientation, original was LANDSCAPE
+2024-02-25T15:15:59.311299+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-03-07T16:44:58.508039+0800 DEBUG D:\rltest\ARES-pytorch-ares\test\test_resources\Etar.apk START
+2024-03-07T16:45:09.346882+0800 DEBUG <--- EPISODE RESET --->
+2024-03-07T16:45:13.454532+0800 DEBUG action: Navigate up Activity: com.android.calendar.AllInOneActivity
+2024-03-07T16:45:16.307253+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-03-07T16:45:16.930598+0800 DEBUG set connection to False
+2024-03-07T16:45:18.273756+0800 DEBUG set connection to True
+2024-03-07T16:45:19.701046+0800 DEBUG action: com.android.calendar.AllInOneActivity.android.view.View. Activity: com.android.calendar.AllInOneActivity
+2024-03-07T16:45:21.682905+0800 ERROR E: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:275:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5) in app D:\rltest\ARES-pytorch-ares\test\test_resources\Etar.apk
+2024-03-07T16:46:29.685204+0800 ERROR An error has been caught in function 'step', process 'MainProcess' (11288), thread 'MainThread' (14524):
+Traceback (most recent call last):
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\RL_application_env.py", line 190, in step
+    return self.step2(action_number)
+           │    │     └ array([ 1, 26,  1])
+           │    └ <function RLApplicationEnv.step2 at 0x000002A4936E3798>
+           └ <rl_interaction.RL_application_env.RLApplicationEnv object at 0x000002A491C89248>
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\RL_application_env.py", line 238, in step2
+    self.action(current_view, action_number)
+    │    │      │             └ array([ 1, 26,  1])
+    │    │      └ {'view': <appium.webdriver.webelement.WebElement (session="4337ab38-8896-46be-8ca5-f9b57e7b63df", element="5b98e0f6-8a28-4282...
+    │    └ <function RLApplicationEnv.action at 0x000002A4936E3828>
+    └ <rl_interaction.RL_application_env.RLApplicationEnv object at 0x000002A491C89248>
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\RL_application_env.py", line 284, in action
+    actions.long_press(current_view['view'], duration=1000).release().perform()
+    │       │          └ {'view': <appium.webdriver.webelement.WebElement (session="4337ab38-8896-46be-8ca5-f9b57e7b63df", element="5b98e0f6-8a28-4282...
+    │       └ <function TouchAction.long_press at 0x000002A4936DBEE8>
+    └ <appium.webdriver.common.touch_action.TouchAction object at 0x000002A495EE1388>
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\appium\webdriver\common\touch_action.py", line 172, in perform
+    self._driver.execute(Command.TOUCH_ACTION, params)
+    │    │       │       │       │             └ {'actions': [{'action': 'longPress', 'options': {'element': '5b98e0f6-8a28-4282-aa8d-a21f5fa9b08c', 'duration': 1000}}, {'act...
+    │    │       │       │       └ 'touchAction'
+    │    │       │       └ <class 'appium.webdriver.mobilecommand.MobileCommand'>
+    │    │       └ <function WebDriver.execute at 0x000002A4E54DA9D8>
+    │    └ <appium.webdriver.webdriver.WebDriver (session="4337ab38-8896-46be-8ca5-f9b57e7b63df")>
+    └ <appium.webdriver.common.touch_action.TouchAction object at 0x000002A495EE1388>
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 430, in execute
+    self.error_handler.check_response(response)
+    │    │             │              └ {'status': 500, 'value': '{"value":{"error":"unknown error","message":"An unknown server-side error occurred while processing...
+    │    │             └ <function MobileErrorHandler.check_response at 0x000002A4E55CFA68>
+    │    └ <appium.webdriver.errorhandler.MobileErrorHandler object at 0x000002A494F7F648>
+    └ <appium.webdriver.webdriver.WebDriver (session="4337ab38-8896-46be-8ca5-f9b57e7b63df")>
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 30, in check_response
+    raise wde
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\appium\webdriver\errorhandler.py", line 26, in check_response
+    super().check_response(response)
+                           └ {'status': 500, 'value': '{"value":{"error":"unknown error","message":"An unknown server-side error occurred while processing...
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 247, in check_response
+    raise exception_class(message, screen, stacktrace)
+          │               │        │       └ ['UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command t...
+          │               │        └ None
+          │               └ 'An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote se...
+          └ <class 'selenium.common.exceptions.WebDriverException'>
+
+selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+Stacktrace:
+UnknownError: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to the remote server. Original error: socket hang up
+    at UIA2Proxy.command (C:\Program Files\Appium\resources\app\node_modules\appium\node_modules\appium-base-driver\lib\jsonwp-proxy\proxy.js:275:13)
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:85:5)
+
+
+During handling of the above exception, another exception occurred:
+
+
+Traceback (most recent call last):
+
+  File "D:\rltest\ARES-pytorch-ares\rl_interaction\test_application.py", line 260, in <module>
+    main()
+    └ <function main at 0x000002A4935D51F8>
+
+  File "D:\rltest\ARES-pytorch-ares\rl_interaction\test_application.py", line 208, in main
+    cycle=cycle)
+          └ 0
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\algorithms\SACExploration.py", line 31, in explore
+    model.learn(total_timesteps=timesteps, callback=callback)
+    │     │                     │                   └ <rl_interaction.utils.TimerCallback.TimerCallback object at 0x000002A495EE1048>
+    │     │                     └ 4000
+    │     └ <function SAC.learn at 0x000002A49341E558>
+    └ <stable_baselines3.sac.sac.SAC object at 0x000002A495EDE508>
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\stable_baselines3\sac\sac.py", line 293, in learn
+    reset_num_timesteps=reset_num_timesteps,
+                        └ True
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\stable_baselines3\common\off_policy_algorithm.py", line 259, in learn
+    log_interval=log_interval,
+                 └ 4
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\stable_baselines3\common\off_policy_algorithm.py", line 409, in collect_rollouts
+    new_obs, reward, done, infos = env.step(action)
+    │        │       │             │   │    └ array([[ 5., 26.,  1.]])
+    │        │       │             │   └ <function VecEnv.step at 0x000002A493360438>
+    │        │       │             └ <stable_baselines3.common.vec_env.dummy_vec_env.DummyVecEnv object at 0x000002A494DD49C8>
+    │        │       └ array([False])
+    │        └ array([-1.], dtype=float32)
+    └ array([[1.   , 0.   , 0.   , ..., 0.   , 0.   , 0.996]], dtype=float32)
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\stable_baselines3\common\vec_env\base_vec_env.py", line 150, in step
+    return self.step_wait()
+           │    └ <function DummyVecEnv.step_wait at 0x000002A4933699D8>
+           └ <stable_baselines3.common.vec_env.dummy_vec_env.DummyVecEnv object at 0x000002A494DD49C8>
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\stable_baselines3\common\vec_env\dummy_vec_env.py", line 44, in step_wait
+    self.actions[env_idx]
+    │    │       └ 0
+    │    └ array([[ 5., 26.,  1.]])
+    └ <stable_baselines3.common.vec_env.dummy_vec_env.DummyVecEnv object at 0x000002A494DD49C8>
+
+> File "..\..\ARES-pytorch-ares\rl_interaction\utils\wrapper.py", line 38, in step
+    obs, reward, done, info = self.env.step(action)
+                              │    │   │    └ array([ 5., 26.,  1.])
+                              │    │   └ <function RLApplicationEnv.step at 0x000002A4936E3708>
+                              │    └ <rl_interaction.RL_application_env.RLApplicationEnv object at 0x000002A491C89248>
+                              └ <TimeFeatureWrapper<RLApplicationEnv instance>>
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\RL_application_env.py", line 201, in step
+    return self.manager(e)
+           │    └ <function RLApplicationEnv.manager at 0x000002A4936E70D8>
+           └ <rl_interaction.RL_application_env.RLApplicationEnv object at 0x000002A491C89248>
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\RL_application_env.py", line 502, in manager
+    self.appium.restart_appium()
+    │    │      └ <function AppiumLauncher.restart_appium at 0x000002A4E5AC05E8>
+    │    └ <rl_interaction.utils.utils.AppiumLauncher object at 0x000002A494DD4888>
+    └ <rl_interaction.RL_application_env.RLApplicationEnv object at 0x000002A491C89248>
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\utils\utils.py", line 81, in restart_appium
+    self.start_appium()
+    │    └ <function AppiumLauncher.start_appium at 0x000002A4E5AC0558>
+    └ <rl_interaction.utils.utils.AppiumLauncher object at 0x000002A494DD4888>
+
+  File "..\..\ARES-pytorch-ares\rl_interaction\utils\utils.py", line 75, in start_appium
+    self.appium_service.start(args=["-p", str(self.port)])
+    │    │              │                     │    └ 4723
+    │    │              │                     └ <rl_interaction.utils.utils.AppiumLauncher object at 0x000002A494DD4888>
+    │    │              └ <function AppiumService.start at 0x000002A4E5AC01F8>
+    │    └ <appium.webdriver.appium_service.AppiumService object at 0x000002A494F78748>
+    └ <rl_interaction.utils.utils.AppiumLauncher object at 0x000002A494DD4888>
+
+  File "D:\rltest\ARES-pytorch-ares\venv\lib\site-packages\appium\webdriver\appium_service.py", line 177, in start
+    raise AppiumServiceError(error_msg)
+          │                  └ 'Appium has failed to start on 127.0.0.1:4723 within 60000ms timeout'
+          └ <class 'appium.webdriver.appium_service.AppiumServiceError'>
+
+appium.webdriver.appium_service.AppiumServiceError: Appium has failed to start on 127.0.0.1:4723 within 60000ms timeout

@@ -1,0 +1,275 @@
+--------- beginning of main
+04-09 09:29:57.623  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/source
+04-09 09:29:57.623  2769  2792 I appium  : Source command
+04-09 09:29:57.623  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
+04-09 09:29:57.655  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>\r\n<hierarchy index=\"0\" class=\"hierarchy\" rotation=\"0\" width=\"768\" height=\"1184\">\r\n  <android.widget.FrameLayout index=\"0\" package=\"com.android.insecurebankv2\" class=…
+04-09 09:29:57.784  2851  2851 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+04-09 09:29:57.784  2851  2851 D AndroidRuntime: CheckJNI is ON
+04-09 09:29:57.807  2851  2851 W art     : Unexpected CPU variant for X86 using defaults: x86_64
+04-09 09:29:57.809  2851  2851 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+04-09 09:29:57.815  2851  2851 E memtrack: Couldn't load memtrack module (No such file or directory)
+04-09 09:29:57.815  2851  2851 E android.os.Debug: failed to load memtrack module: -2
+04-09 09:29:57.815  2851  2851 I Radio-JNI: register_android_hardware_Radio DONE
+04-09 09:29:57.821  2851  2851 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+--------- beginning of system
+04-09 09:29:57.822  1473  1931 I ActivityManager: Force stopping com.android.insecurebankv2 appid=10066 user=0: from pid 2851
+04-09 09:29:57.822  1473  1931 I ActivityManager: Killing 2806:com.android.insecurebankv2/u0a66 (adj 0): stop com.android.insecurebankv2
+04-09 09:29:57.822  1473  1931 D ActivityManager: cleanUpApplicationRecord -- 2806
+04-09 09:29:57.822  1473  1931 W ActivityManager: Force removing ActivityRecord{a6a7def u0 com.android.insecurebankv2/.LoginActivity t128}: app died, no saved state
+04-09 09:29:57.826  1473  1519 E JavaBinder: !!! FAILED BINDER TRANSACTION !!!  (parcel size = 60)
+04-09 09:29:57.828  2851  2851 D AndroidRuntime: Shutting down VM
+04-09 09:29:57.830  1770  1770 D CarrierSvcBindHelper: No carrier app for: 0
+04-09 09:29:57.848  1473  1931 D GraphicsStats: Buffer count: 3
+04-09 09:29:57.869  1977  2092 E EGL_emulation: tid 2092: eglSurfaceAttrib(1261): error 0x3009 (EGL_BAD_MATCH)
+04-09 09:29:57.869  1977  2092 W OpenGLRenderer: Failed to set EGL_SWAP_BEHAVIOR on surface 0x79cbc465f200, error=EGL_BAD_MATCH
+04-09 09:29:57.871  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:57.876  1934  1934 I UnicodeIME: onFinishInput: 
+04-09 09:29:57.877  1934  1934 I UnicodeIME: onStartInput
+04-09 09:29:57.889  1977  2092 D EGL_emulation: eglMakeCurrent: 0x79cbc468a320: ver 2 0 (tinfo 0x79cbdb31bb00)
+04-09 09:29:57.964  2861  2861 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+04-09 09:29:57.966  2861  2861 D AndroidRuntime: CheckJNI is ON
+04-09 09:29:57.995  2861  2861 W art     : Unexpected CPU variant for X86 using defaults: x86_64
+04-09 09:29:57.998  2861  2861 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+04-09 09:29:58.008  2861  2861 E memtrack: Couldn't load memtrack module (No such file or directory)
+04-09 09:29:58.008  2861  2861 E android.os.Debug: failed to load memtrack module: -2
+04-09 09:29:58.009  2861  2861 I Radio-JNI: register_android_hardware_Radio DONE
+04-09 09:29:58.012  2861  2861 D AndroidRuntime: Calling main entry com.android.commands.pm.Pm
+04-09 09:29:58.013  1473  1931 I ActivityManager: Force stopping com.android.insecurebankv2 appid=10066 user=0: clear data
+04-09 09:29:58.014  1473  1931 D ZenLog  : config: removeAutomaticZenRules,ZenModeConfig[user=0,allowCalls=true,allowRepeatCallers=false,allowMessages=false,allowCallsFrom=contacts,allowMessagesFrom=contacts,allowReminders=true,allowEvents=true,allowWhenScreenOff=true,allowWhenScreenOn=true,automaticRules={72e86c56b1c44ac2bc72e9a404ae8c7b=ZenRule[enabled=false,snoozing=false,name=Weekend,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,condition=Condition[id=condition://android/schedule?days=6.7&start=23.30&end=10.0&exitAtAlarm=false,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider},id=72e86c56b1c44ac2bc72e9a404ae8c7b,creationTime=1705377305296,enabler=null], 2804cf468c1b4af58ac5d792dfc4e01c=ZenRule[enabled=false,snoozing=false,name=Weeknight,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,condition=Condition[id=condition://android/schedule?days=1.2.3.4.5&start=22.0&end=7.0&exitAtAlarm=false,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.ScheduleConditionProvider},id=2804cf468c1b4af58ac5d792dfc4e01c,creationTime=1705377305295,enabler=null], 36e3f3fb41d14266893ccca05b988b28=ZenRule[enabled=false,snoozing=false,name=Event,zenMode=ZEN_MODE_ALARMS,conditionId=condition://android/event?userId=-10000&calendar=&reply=1,condition=Condition[id=condition://android/event?userId=-10000&calendar=&reply=1,summary=...,line1=...,line2=...,icon=0,state=STATE_FALSE,flags=2],component=ComponentInfo{android/com.android.server.notification.EventConditionProvider},id=36e3f3fb41d14266893ccca05b988b28,creationTime=1705377305296,enabler=null]},manualRule=null],Diff[]
+04-09 09:29:58.014  1473  1473 D ZenLog  : set_zen_mode: off,removeAutomaticZenRules
+04-09 09:29:58.014  1473  1499 I ActivityManager: Force stopping com.android.insecurebankv2 appid=10066 user=-1: clearApplicationUserData
+04-09 09:29:58.028  1770  1770 D CarrierSvcBindHelper: No carrier app for: 0
+04-09 09:29:58.036  2861  2861 I art     : System.exit called, status: 0
+04-09 09:29:58.036  2861  2861 I AndroidRuntime: VM exiting with result code 0.
+04-09 09:29:58.052  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.056  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.059  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.070  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.076  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.199  2876  2876 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 2000 <<<<<<
+04-09 09:29:58.205  2876  2876 D AndroidRuntime: CheckJNI is ON
+04-09 09:29:58.235  2876  2876 W art     : Unexpected CPU variant for X86 using defaults: x86_64
+04-09 09:29:58.241  2876  2876 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+04-09 09:29:58.248  2876  2876 E memtrack: Couldn't load memtrack module (No such file or directory)
+04-09 09:29:58.248  2876  2876 E android.os.Debug: failed to load memtrack module: -2
+04-09 09:29:58.248  2876  2876 I Radio-JNI: register_android_hardware_Radio DONE
+04-09 09:29:58.257  2876  2876 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+04-09 09:29:58.260  1473  1705 I ActivityManager: Force stopping com.android.insecurebankv2 appid=10066 user=0: from pid 2876
+04-09 09:29:58.263  1770  1770 D CarrierSvcBindHelper: No carrier app for: 0
+04-09 09:29:58.400  1977  2092 W OpenGLRenderer: Incorrectly called buildLayer on View: ShortcutAndWidgetContainer, destroying layer...
+04-09 09:29:58.513  1473  1705 I ActivityManager: START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.android.insecurebankv2/.LoginActivity} from uid 2000 on display 0
+04-09 09:29:58.522  2886  2886 I art     : Not late-enabling -Xcheck:jni (already on)
+04-09 09:29:58.522  2886  2886 W art     : Unexpected CPU variant for X86 using defaults: x86_64
+04-09 09:29:58.532  1473  1490 I ActivityManager: Start proc 2886:com.android.insecurebankv2/u0a66 for activity com.android.insecurebankv2/.LoginActivity
+04-09 09:29:58.555  1277  1397 D gralloc_ranchu: gralloc_alloc: Creating ashmem region of size 3637248
+04-09 09:29:58.560  2886  2886 W System  : ClassLoader referenced unknown path: /data/app/com.android.insecurebankv2-2/lib/x86_64
+04-09 09:29:58.604  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.607  1977  2092 D EGL_emulation: eglMakeCurrent: 0x79cbc468a320: ver 2 0 (tinfo 0x79cbdb31bb00)
+04-09 09:29:58.610  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.619  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.623  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.633  1277  1338 E SurfaceFlinger: ro.sf.lcd_density must be defined as a build property
+04-09 09:29:58.637  2886  2886 D         : HostConnection::get() New Host Connection established 0x79cbdb27fba0, tid 2886
+04-09 09:29:58.637  2886  2886 W         : Unrecognized GLES max version string in extensions: ANDROID_EMU_CHECKSUM_HELPER_v1 
+04-09 09:29:58.637  2886  2886 W         : Process pipe failed
+04-09 09:29:58.639  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.645  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.649  1636  1636 W asset   : Asset path /data/app/com.android.insecurebankv2-1/base.apk is neither a directory nor file (type=1).
+04-09 09:29:58.649  1636  1636 E ResourcesManager: failed to add asset path /data/app/com.android.insecurebankv2-1/base.apk
+04-09 09:29:58.649  1636  1636 W PackageManager: Failure retrieving resources for com.android.insecurebankv2
+04-09 09:29:58.649  1636  1636 W asset   : Asset path /data/app/com.android.insecurebankv2-1/base.apk is neither a directory nor file (type=1).
+04-09 09:29:58.649  1636  1636 E ResourcesManager: failed to add asset path /data/app/com.android.insecurebankv2-1/base.apk
+04-09 09:29:58.649  1636  1636 W PackageManager: Failure retrieving resources for com.android.insecurebankv2
+04-09 09:29:58.649  1636  1636 W asset   : Asset path /data/app/com.android.insecurebankv2-1/base.apk is neither a directory nor file (type=1).
+04-09 09:29:58.649  1636  1636 E ResourcesManager: failed to add asset path /data/app/com.android.insecurebankv2-1/base.apk
+04-09 09:29:58.649  1636  1636 W PackageManager: Failure retrieving resources for com.android.insecurebankv2
+04-09 09:29:58.649  1636  1636 W asset   : Asset path /data/app/com.android.insecurebankv2-1/base.apk is neither a directory nor file (type=1).
+04-09 09:29:58.649  1636  1636 E ResourcesManager: failed to add asset path /data/app/com.android.insecurebankv2-1/base.apk
+04-09 09:29:58.649  1636  1636 W PackageManager: Failure retrieving resources for com.android.insecurebankv2
+04-09 09:29:58.650  1636  1636 W asset   : Asset path /data/app/com.android.insecurebankv2-1/base.apk is neither a directory nor file (type=1).
+04-09 09:29:58.650  1636  1636 E ResourcesManager: failed to add asset path /data/app/com.android.insecurebankv2-1/base.apk
+04-09 09:29:58.650  1636  1636 W PackageManager: Failure retrieving resources for com.android.insecurebankv2
+04-09 09:29:58.657  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.660  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.669  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.672  2886  2902 D         : HostConnection::get() New Host Connection established 0x79cbdb27fa80, tid 2902
+04-09 09:29:58.672  2886  2902 W         : Unrecognized GLES max version string in extensions: ANDROID_EMU_CHECKSUM_HELPER_v1 
+04-09 09:29:58.676  2886  2902 I OpenGLRenderer: Initialized EGL, version 1.4
+04-09 09:29:58.676  2886  2902 D OpenGLRenderer: Swap behavior 1
+04-09 09:29:58.677  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.686  2886  2902 D EGL_emulation: eglCreateContext: 0x79cbdc07c620: maj 2 min 0 rcv 2
+04-09 09:29:58.690  1934  1934 I UnicodeIME: onFinishInput: 
+04-09 09:29:58.690  1934  1934 I UnicodeIME: onStartInput
+04-09 09:29:58.705  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.706  2886  2902 D EGL_emulation: eglMakeCurrent: 0x79cbdc07c620: ver 2 0 (tinfo 0x79cbdb2830c0)
+04-09 09:29:58.719  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.722  2886  2902 E EGL_emulation: tid 2902: eglSurfaceAttrib(1261): error 0x3009 (EGL_BAD_MATCH)
+04-09 09:29:58.722  2886  2902 W OpenGLRenderer: Failed to set EGL_SWAP_BEHAVIOR on surface 0x79cbdb30f280, error=EGL_BAD_MATCH
+04-09 09:29:58.731  2886  2902 D EGL_emulation: eglMakeCurrent: 0x79cbdc07c620: ver 2 0 (tinfo 0x79cbdb2830c0)
+04-09 09:29:58.731  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.734  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.748  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.752  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.762  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.767  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.774  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.789  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.793  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.800  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:29:58.822  1473  1519 I ActivityManager: Displayed com.android.insecurebankv2/.LoginActivity: +303ms
+04-09 09:29:58.823  2876  2876 D AndroidRuntime: Shutting down VM
+04-09 09:29:59.024  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/source
+04-09 09:29:59.024  2769  2792 I appium  : Source command
+04-09 09:29:59.024  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
+04-09 09:29:59.374  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>\r\n<hierarchy index=\"0\" class=\"hierarchy\" rotation=\"0\" width=\"768\" height=\"1184\">\r\n  <android.widget.FrameLayout index=\"0\" package=\"com.android.insecurebankv2\" class=…
+04-09 09:29:59.386  2769  2792 I appium  : channel read: POST /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/elements
+04-09 09:29:59.386  2769  2792 I appium  : FindElements command
+04-09 09:29:59.386  2769  2792 I appium  : method: 'class name', selector: 'android.widget.Button', contextId: ''
+04-09 09:29:59.386  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
+04-09 09:29:59.401  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":[{"ELEMENT":"fc5eb28d-bcf6-493f-b025-d01524726501","element-6066-11e4-a52e-4f735466cecf":"fc5eb28d-bcf6-493f-b025-d01524726501"},{"ELEMENT":"bc50c48c-797d-4b91-873a-c3134731b6d9","element-6066-11e4-a52e-4f735466cecf":"bc50c48c-797d-4b91-873…
+04-09 09:29:59.406  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/fc5eb28d-bcf6-493f-b025-d01524726501/attribute/clickable
+04-09 09:29:59.406  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.407  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.413  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/fc5eb28d-bcf6-493f-b025-d01524726501/attribute/scrollable
+04-09 09:29:59.413  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.414  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.418  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/fc5eb28d-bcf6-493f-b025-d01524726501/attribute/long-clickable
+04-09 09:29:59.418  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.419  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.422  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/fc5eb28d-bcf6-493f-b025-d01524726501/attribute/resource-id
+04-09 09:29:59.422  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.423  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"com.android.insecurebankv2:id/login_button"}
+04-09 09:29:59.428  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/bc50c48c-797d-4b91-873a-c3134731b6d9/attribute/clickable
+04-09 09:29:59.428  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.429  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.432  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/bc50c48c-797d-4b91-873a-c3134731b6d9/attribute/scrollable
+04-09 09:29:59.432  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.434  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.437  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/bc50c48c-797d-4b91-873a-c3134731b6d9/attribute/long-clickable
+04-09 09:29:59.437  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.438  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.444  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/bc50c48c-797d-4b91-873a-c3134731b6d9/attribute/resource-id
+04-09 09:29:59.444  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.444  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"com.android.insecurebankv2:id/fill_data"}
+04-09 09:29:59.450  2769  2792 I appium  : channel read: POST /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/elements
+04-09 09:29:59.450  2769  2792 I appium  : FindElements command
+04-09 09:29:59.450  2769  2792 I appium  : method: 'class name', selector: 'android.widget.ImageButton', contextId: ''
+04-09 09:29:59.450  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
+04-09 09:29:59.479  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":[{"ELEMENT":"7e15b840-bd21-4ceb-8507-98ad14500eb5","element-6066-11e4-a52e-4f735466cecf":"7e15b840-bd21-4ceb-8507-98ad14500eb5"}]}
+04-09 09:29:59.483  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/7e15b840-bd21-4ceb-8507-98ad14500eb5/attribute/clickable
+04-09 09:29:59.483  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.484  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.490  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/7e15b840-bd21-4ceb-8507-98ad14500eb5/attribute/scrollable
+04-09 09:29:59.490  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.491  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.496  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/7e15b840-bd21-4ceb-8507-98ad14500eb5/attribute/long-clickable
+04-09 09:29:59.496  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.497  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.501  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/7e15b840-bd21-4ceb-8507-98ad14500eb5/attribute/resource-id
+04-09 09:29:59.501  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.502  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":null}
+04-09 09:29:59.507  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/7e15b840-bd21-4ceb-8507-98ad14500eb5/attribute/content-desc
+04-09 09:29:59.507  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.508  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"更多选项"}
+04-09 09:29:59.512  2769  2792 I appium  : channel read: POST /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/elements
+04-09 09:29:59.512  2769  2792 I appium  : FindElements command
+04-09 09:29:59.512  2769  2792 I appium  : method: 'class name', selector: 'android.widget.LinearLayout', contextId: ''
+04-09 09:29:59.512  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
+04-09 09:29:59.539  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":[{"ELEMENT":"f2ef1350-b642-46f5-aa68-2686c255d384","element-6066-11e4-a52e-4f735466cecf":"f2ef1350-b642-46f5-aa68-2686c255d384"},{"ELEMENT":"e85abb28-c540-443c-a25b-fa4a8ff253cc","element-6066-11e4-a52e-4f735466cecf":"e85abb28-c540-443c-a25…
+04-09 09:29:59.544  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/f2ef1350-b642-46f5-aa68-2686c255d384/attribute/clickable
+04-09 09:29:59.544  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.546  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.549  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/f2ef1350-b642-46f5-aa68-2686c255d384/attribute/scrollable
+04-09 09:29:59.549  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.551  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.557  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/f2ef1350-b642-46f5-aa68-2686c255d384/attribute/long-clickable
+04-09 09:29:59.557  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.558  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.562  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/e85abb28-c540-443c-a25b-fa4a8ff253cc/attribute/clickable
+04-09 09:29:59.562  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.563  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.570  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/e85abb28-c540-443c-a25b-fa4a8ff253cc/attribute/scrollable
+04-09 09:29:59.571  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.573  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.579  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/e85abb28-c540-443c-a25b-fa4a8ff253cc/attribute/long-clickable
+04-09 09:29:59.579  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.581  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.593  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/e85abb28-c540-443c-a25b-fa4a8ff253cc/attribute/resource-id
+04-09 09:29:59.593  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.595  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":null}
+04-09 09:29:59.608  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/e85abb28-c540-443c-a25b-fa4a8ff253cc/attribute/content-desc
+04-09 09:29:59.608  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.610  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":null}
+04-09 09:29:59.617  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/e85abb28-c540-443c-a25b-fa4a8ff253cc/attribute/class
+04-09 09:29:59.617  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.620  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"android.widget.LinearLayout"}
+04-09 09:29:59.626  2769  2792 I appium  : channel read: POST /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/elements
+04-09 09:29:59.626  2769  2792 I appium  : FindElements command
+04-09 09:29:59.626  2769  2792 I appium  : method: 'class name', selector: 'android.widget.TextView', contextId: 'e85abb28-c540-443c-a25b-fa4a8ff253cc'
+04-09 09:29:59.638  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":[{"ELEMENT":"55344fdd-78a5-4829-8a56-7c8c204323b4","element-6066-11e4-a52e-4f735466cecf":"55344fdd-78a5-4829-8a56-7c8c204323b4"}]}
+04-09 09:29:59.646  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/55344fdd-78a5-4829-8a56-7c8c204323b4/attribute/text
+04-09 09:29:59.646  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.647  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"InsecureBankv2"}
+04-09 09:29:59.652  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/afc22ce8-469b-42fa-8a3e-00f3a284451d/attribute/clickable
+04-09 09:29:59.652  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.653  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.658  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/afc22ce8-469b-42fa-8a3e-00f3a284451d/attribute/scrollable
+04-09 09:29:59.658  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.660  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.665  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/afc22ce8-469b-42fa-8a3e-00f3a284451d/attribute/long-clickable
+04-09 09:29:59.665  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.667  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.674  2769  2792 I appium  : channel read: POST /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/elements
+04-09 09:29:59.674  2769  2792 I appium  : FindElements command
+04-09 09:29:59.674  2769  2792 I appium  : method: 'class name', selector: 'android.widget.EditText', contextId: ''
+04-09 09:29:59.674  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
+04-09 09:29:59.710  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":[{"ELEMENT":"49151138-7576-4b4f-bb35-e1a7d917db75","element-6066-11e4-a52e-4f735466cecf":"49151138-7576-4b4f-bb35-e1a7d917db75"},{"ELEMENT":"09362985-ec9a-49f5-9335-aaf83f22d0ec","element-6066-11e4-a52e-4f735466cecf":"09362985-ec9a-49f5-933…
+04-09 09:29:59.720  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/49151138-7576-4b4f-bb35-e1a7d917db75/attribute/clickable
+04-09 09:29:59.720  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.724  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.728  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/49151138-7576-4b4f-bb35-e1a7d917db75/attribute/scrollable
+04-09 09:29:59.728  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.729  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.740  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/49151138-7576-4b4f-bb35-e1a7d917db75/attribute/long-clickable
+04-09 09:29:59.740  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.741  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.746  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/49151138-7576-4b4f-bb35-e1a7d917db75/attribute/resource-id
+04-09 09:29:59.746  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.748  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"com.android.insecurebankv2:id/loginscreen_username"}
+04-09 09:29:59.750  2769  2774 I art     : Do partial code cache collection, code=60KB, data=49KB
+04-09 09:29:59.752  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/09362985-ec9a-49f5-9335-aaf83f22d0ec/attribute/clickable
+04-09 09:29:59.750  2769  2774 I art     : After code cache collection, code=60KB, data=49KB
+04-09 09:29:59.752  2769  2774 I art     : Increasing code cache capacity to 256KB
+04-09 09:29:59.752  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.753  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.760  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/09362985-ec9a-49f5-9335-aaf83f22d0ec/attribute/scrollable
+04-09 09:29:59.760  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.761  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"false"}
+04-09 09:29:59.765  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/09362985-ec9a-49f5-9335-aaf83f22d0ec/attribute/long-clickable
+04-09 09:29:59.765  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.767  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"true"}
+04-09 09:29:59.775  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/element/09362985-ec9a-49f5-9335-aaf83f22d0ec/attribute/resource-id
+04-09 09:29:59.776  2769  2792 I appium  : GetElementAttribute command
+04-09 09:29:59.777  2769  2792 I appium  : AppiumResponse: {"sessionId":"30545cba-2971-4ac3-a200-ee01b09bed18","value":"com.android.insecurebankv2:id/loginscreen_password"}
+04-09 09:29:59.868  2918  2918 D AndroidRuntime: >>>>>> START com.android.internal.os.RuntimeInit uid 0 <<<<<<
+04-09 09:29:59.869  2918  2918 D AndroidRuntime: CheckJNI is ON
+04-09 09:29:59.894  2918  2918 W art     : Unexpected CPU variant for X86 using defaults: x86_64
+04-09 09:29:59.897  2918  2918 D ICU     : No timezone override file found: /data/misc/zoneinfo/current/icu/icu_tzdata.dat
+04-09 09:29:59.926  2918  2918 E memtrack: Couldn't load memtrack module (No such file or directory)
+04-09 09:29:59.926  2918  2918 E android.os.Debug: failed to load memtrack module: -2
+04-09 09:29:59.926  2918  2918 I Radio-JNI: register_android_hardware_Radio DONE
+04-09 09:29:59.929  2918  2918 D AndroidRuntime: Calling main entry com.android.commands.am.Am
+04-09 09:29:59.935  1473  1906 E ActivityManager: Sending non-protected broadcast theBroadcast from system uid 0 pkg null
+04-09 09:29:59.935  1473  1906 E ActivityManager: java.lang.Throwable
+04-09 09:29:59.935  1473  1906 E ActivityManager: 	at com.android.server.am.ActivityManagerService.checkBroadcastFromSystem(ActivityManagerService.java:17900)
+04-09 09:29:59.935  1473  1906 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntentLocked(ActivityManagerService.java:18467)
+04-09 09:29:59.935  1473  1906 E ActivityManager: 	at com.android.server.am.ActivityManagerService.broadcastIntent(ActivityManagerService.java:18558)
+04-09 09:29:59.935  1473  1906 E ActivityManager: 	at android.app.ActivityManagerNative.onTransact(ActivityManagerNative.java:499)
+04-09 09:29:59.935  1473  1906 E ActivityManager: 	at com.android.server.am.ActivityManagerService.onTransact(ActivityManagerService.java:2795)
+04-09 09:29:59.935  1473  1906 E ActivityManager: 	at android.os.Binder.execTransact(Binder.java:565)
+04-09 09:29:59.941  2886  2886 I System.out: Phone number is null
+04-09 09:29:59.941  2918  2918 D AndroidRuntime: Shutting down VM
+04-09 09:30:00.018  1636  1886 D EGL_emulation: eglMakeCurrent: 0x79cbd504f500: ver 2 0 (tinfo 0x79cbd500c620)
+04-09 09:30:00.066  2769  2792 I appium  : channel read: GET /wd/hub/session/30545cba-2971-4ac3-a200-ee01b09bed18/source
+04-09 09:30:00.066  2769  2792 I appium  : Source command
+04-09 09:30:00.066  2769  2792 I appium  : Waiting up to 10000ms for the device to idle
